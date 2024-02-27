@@ -4,19 +4,19 @@
 
 2. [The Csv file fields Description](#csv-file-fields-description)
 
-3. [Describing the structure of the complex formats in the CSV File fields](#describing-the-structure-of-the-complex-formats-in-the-csv-file-fields)
+3. [Describing the structure of the complex formats in the CSV File fields](#structure-of-the-complex-formats-in-the-csv-file-fields)
 
-4. [****Example****](https://chat.openai.com/c/4004811b-4ce6-4069-b893-dc2ff7762bbc#example)
+4. [Example](#example)
 
-5. [****Disclaimer****](https://chat.openai.com/c/4004811b-4ce6-4069-b893-dc2ff7762bbc#disclaimer)
+5. [Disclaimer](#disclaimer)
 
 
-# Overview<a id="overview"></a>
+# Overview
 
 This repository contains historical football data from three main European football leagues: La Liga (Spain), Serie A (Italy), and the Premier League (England). The data spans several decades, providing valuable insights into the performance of teams and players over time.
 
 
-## La Liga Information<a id="la-liga-information"></a>
+## La Liga Information
 
 - Historical Football Data: The data starts from the 1929/1930 season and ends with the 2018/2019 season.
 
@@ -27,7 +27,7 @@ This repository contains historical football data from three main European footb
   - 1996/1997
 
 
-## Serie A Information<a id="serie-a-information"></a>
+## Serie A Information
 
 - Historical Football Data: The data starts from the 1928/1929 season and ends with the 2018/2019 season.
 
@@ -46,7 +46,7 @@ This repository contains historical football data from three main European footb
   - 1965/1966
 
 
-## Premier League Information<a id="premier-league-information"></a>
+## Premier League Information
 
 - Historical Football Data: The data starts from the 1946/1947 season and ends with the 2019/2020 season.
 
@@ -94,15 +94,8 @@ This repository contains historical football data from three main European footb
 |     attendance     |                              Attendance at the match                             |
 
 
-###
 
-### <a id="-1"></a>
-
-### <a id="-2"></a>
-
-### <a id="-3"></a>
-
-### Structure of the complex formats in the CSV File fields<a id="structure-of-the-complex-formats-in-the-csv-file-fields"></a>
+### Structure of the complex formats in the CSV File fields
 
 |                    |                                                                                                                                                           |
 | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -127,14 +120,10 @@ This repository contains historical football data from three main European footb
 
 - Example of `awaysubstitution`: "{'A. El Mohamady':'Jota,66', 'Douglas Luiz':'M. Nakamba,81', 'K. Davis':'F. Guilbert,85'}"
 
-
-## <a id="-4"></a>
-
-## Note<a id="note"></a>
-
+<br></br>
 This dataset is a valuable resource for football enthusiasts, analysts, and researchers interested in studying the history and trends of European football leagues.
 
-**Disclaimer**
+### Disclaimer
 
 The data provided in this repository is gathered from various sources and is offered for informational purposes only. While we make every effort to ensure the accuracy and reliability of the data, it is possible that errors or discrepancies may occur due to human mistakes or inconsistencies in the original sources.
 
