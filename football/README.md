@@ -112,6 +112,7 @@ This repository contains historical football data from three main European footb
 |    homecardsred    |                                                                  idem to awaycardsyellow                                                                  |
 | homecardsyellowred |                                                                  idem to awaycardsyellow                                                                  |
 |  homesubstitution  |                                                                  idem to awaysubstitution                                                                 |
+
 <br></br>
 
 ### Example
