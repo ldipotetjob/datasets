@@ -93,7 +93,7 @@ This repository contains historical football data from three main European footb
 |      matchweek     |                     Match week in which the match took place                     |
 |     attendance     |                              Attendance at the match                             |
 
-
+<br></br>
 
 ### Structure of the complex formats in the CSV File fields
 
@@ -112,9 +112,9 @@ This repository contains historical football data from three main European footb
 |    homecardsred    |                                                                  idem to awaycardsyellow                                                                  |
 | homecardsyellowred |                                                                  idem to awaycardsyellow                                                                  |
 |  homesubstitution  |                                                                  idem to awaysubstitution                                                                 |
+<br></br>
 
-
-### Example:<a id="example"></a>
+### Example
 
 - Example of `awaygoalsplayer`: "{'G. Wijnaldum':'9', 'M. Salah':'68', 'S. Mané':'81'}"
 
@@ -132,7 +132,7 @@ We do not assume any responsibility for the completeness, accuracy, or reliabili
 We do not accept any liability for any loss, damage, or inconvenience caused by reliance on the information provided in this repository.
 
 
-## Seasons Under Revision:<a id="seasons-under-revision"></a>
+## Seasons Under Revision
 
 - When a season is included under revision, that despite our efforts to review the data, there are significant inconsistencies that may affect its reliability, therefore that information is not included in the dataset. However we can provide it, please contact us via email.
 
