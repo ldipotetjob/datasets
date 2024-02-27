@@ -4,7 +4,7 @@
 
 2. [The Csv file fields Description](#csv-file-fields-description)
 
-3. [****Describing the structure of the complex formats in the CSV File fields****](https://chat.openai.com/c/4004811b-4ce6-4069-b893-dc2ff7762bbc#describing-the-structure-of-the-complex-formats-in-the-csv-file-fields)
+3. [Describing the structure of the complex formats in the CSV File fields](#describing-the-structure-of-the-complex-formats-in-the-csv-file-fields)
 
 4. [****Example****](https://chat.openai.com/c/4004811b-4ce6-4069-b893-dc2ff7762bbc#example)
 
