@@ -1,4 +1,4 @@
-# Football Leagues DataSet Readme<a id="football-leagues-dataset-readme"></a>
+# Football Leagues DataSet
 
 1. Overview
 
