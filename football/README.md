@@ -1,8 +1,8 @@
 # Football Leagues DataSet Readme<a id="football-leagues-dataset-readme"></a>
 
-1. **Overview**
+1. Overview
 
-2. **Meaning of the CSV file fields**
+2. [The Csv file fields Description](#csv-file-fields-description)
 
 3. [****Describing the structure of the complex formats in the CSV File fields****](https://chat.openai.com/c/4004811b-4ce6-4069-b893-dc2ff7762bbc#describing-the-structure-of-the-complex-formats-in-the-csv-file-fields)
 
@@ -55,7 +55,7 @@ This repository contains historical football data from three main European footb
   - 1987/1988
 
 
-### CSV file fields Description<a id="csv-file-fields-description"></a>
+## Csv file fields Description
 
 |                    |                                                                                  |
 | :----------------: | :------------------------------------------------------------------------------: |
