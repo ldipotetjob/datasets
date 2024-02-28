@@ -13,7 +13,7 @@
 
 # Overview
 
-This repository contains historical football data from three main European football leagues: La Liga (Spain), Serie A (Italy), and the Premier League (England). The data spans several decades, providing valuable insights into the performance of teams and players over time.
+This repository contains historical football data from three main European football leagues: La Liga (Spain), Serie A (Italy), Champions league and the Premier League (England). The data spans several decades, providing valuable insights into the performance of teams and players over time.
 
 
 ## La Liga Information
