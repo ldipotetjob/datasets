@@ -1,0 +1,49 @@
+leagueid,awaygoals,awaygoalsplayer,awayassistplayer,awaycardsyellow,awaycardsred,awaycardsyellowred,awaysubstitution,awayteam,awaypossession,awayshotsontarge,awaycorners,awayfouls,awaygoliesaves,dategame,shortdate,season,homegoal,homegoalsplayer,homeassistplayer,homecardsyellow,homecardsred,homecardsyellowred,homesubstitution,hometeam,homepossession,homeshotsontarget,homecorners,homefouls,homegoliesaves,matchweek,attendance
+CHAMPIONS,1,"{'Panayot Panayotov':'25'''}",,,"{'Panayot Panayotov':'56'''}",,,CSKA Sofia,,,,,,-386467200000,1957-10-03,1957/1958,6,"{'P. Berendi':'48''','Gyula Szilágyi':'89''','D. Bundzsak':'68''','Lajos Csordás':'35'',38'',51'''}",,,,,,Budapesti Vasas,,,,,,1/16 final,30000
+CHAMPIONS,0,,,,,,,Sevilla,,,,,,-381110400000,1957-12-04,1957/1958,2,"{'Erik Jensen':'41'',86'''}",,,,,,AGF Aarhus,,,,,,octavos,18000
+CHAMPIONS,3,"{'Dennis Viollet':'2''','Bobby Charlton':'30'',31'''}",,,,,,Man. Utd,,,,,,-375667200000,1958-02-05,1957/1958,3,"{'B. Kostić':'46'',58'''}",,,,,,Crvena Zvezda,,,,,,cuartos,52000
+CHAMPIONS,0,,,,"{'Campanal Ii':'49'''}",,,Sevilla,,,,,,-376790400000,1958-01-23,1957/1958,8,"{'Marsal':'48''','R. Kopa':'37'',73''','P. Gento':'81''','A. Di Stéfano':'10'',85'',88'''}",,,"{'Marsal':'49'''}",,,Real Madrid,,,,,,cuartos,76796
+CHAMPIONS,0,,,,,,,Sevilla,,,,,,-387072000000,1957-09-26,1957/1958,0,,,,,,,Benfica,,,,,,1/16 final,50000
+CHAMPIONS,2,"{'D. Bundzsak':'73'',82'''}",,,,,,Budapesti Vasas,,,,,,-375667200000,1958-02-05,1957/1958,2,"{'Piet Ouderland':'31'',42'''}",,,,,,Ajax,,,,,,cuartos,35000
+CHAMPIONS,0,,,,,,,Man. Utd,,,,,,-381110400000,1957-12-04,1957/1958,1,"{'M. Dvorak':'17'''}",,,,,,FK Dukla Praha,,,,,,octavos,30000
+CHAMPIONS,1,"{'Krzysztof Baszkiewicz':'60'''}",,,"{'Krzysztof Baszkiewicz':'65'''}",,,Gwardia Warszawa,,,,,,-385603200000,1957-10-13,1957/1958,3,"{'Manfred Kaiser':'10''','Siegfried Kaiser':'35'',74'''}",,,,,,Erzgebirge Aue,,,,,,1/16 final,20000
+CHAMPIONS,2,"{'A. Di Stéfano':'15'',61'''}",,,,,,Real Madrid,,,,,,-384048000000,1957-10-31,1957/1958,1,"{'Constant De Backer':'58'''}",,,,,,Antwerp,,,,,,octavos,45000
+CHAMPIONS,1,"{'D. Bundzsak':'53'''}",,,,,,Budapesti Vasas,,,,,,-388972800000,1957-09-04,1957/1958,2,"{'Dimitar Milanov':'2'',38'''}",,,,,,CSKA Sofia,,,,,,1/16 final,50000
+CHAMPIONS,2,"{'Tiberiu Bone':'50''','Francisc Zavoda':'43'''}",,,,,,FCSB,,,,,,-381715200000,1957-11-27,1957/1958,4,"{'Alfred Niepieklo':'66''','Wolfgang Peters':'35'',62'',64'''}",,,,,,B. Dortmund,,,,,,octavos,42000
+CHAMPIONS,1,"{'H. Schneiter':'89'''}",,,,,,Young Boys,,,,,,-381456000000,1957-11-30,1957/1958,2,"{'Lajos Csordás':'8'',12'''}",,,,,,Budapesti Vasas,,,,,,octavos,20000
+CHAMPIONS,3,"{'Wim Bleijenberg':'17''','Piet Van Der Kuil':'5'',60'''}",,,,,,Ajax,,,,,,-382320000000,1957-11-20,1957/1958,1,"{'Bringfried Müller':'87'''}",,,,,,Erzgebirge Aue,,,,,,octavos,30000
+CHAMPIONS,1,"{'Joseph Rongoni':'31'''}",,,,,,Stade Dudelange,,,,,,-386553600000,1957-10-02,1957/1958,9,"{'Jovan Cokić':'5'',38'',66'',69''','B. Kostić':'17'',29'',30'',33''','R. Mitić':'10'''}",,,,,,Crvena Zvezda,,,,,,1/16 final,1500
+CHAMPIONS,0,,,,,,,Erzgebirge Aue,,,,,,-381715200000,1957-11-27,1957/1958,1,"{'Piet Ouderland':'79'''}",,,,,,Ajax,,,,,,octavos,23000
+CHAMPIONS,0,,,,,,,Glenavon,,,,,,-388368000000,1957-09-11,1957/1958,0,,,,,,,AGF Aarhus,,,,,,1/16 final,14000
+CHAMPIONS,1,"{'G. Cacoveanu':'35'''}",,,,,,FCSB,,,,,,-378950400000,1957-12-29,1957/1958,3,"{'A. Kelbassa':'62''','Hans-Georg Dulz':'15''','Adi Preissler':'79'''}",,,,,,B. Dortmund,,,,,,octavos,8000
+CHAMPIONS,1,"{'Lajos Csordás':'90'''}",,,"{'L. Sarosi':'75'''}",,,Budapesti Vasas,,,,,,-382320000000,1957-11-20,1957/1958,1,"{'Ernst Wechselberger':'7'''}",,,"{'Ernst Wechselberger':'75'''}",,,Young Boys,,,,,,octavos,20000
+CHAMPIONS,2,"{'Pereda':'48'',62'''}",,,,,,Real Madrid,,,,,,-374112000000,1958-02-23,1957/1958,2,"{'Pahuet':'29''','Payá':'22'''}",,,,,,Sevilla,,,,,,cuartos,25000
+CHAMPIONS,1,"{'K. Backman':'16'''}",,,,,,Norrköping,,,,,,-382060800000,1957-11-23,1957/1958,2,"{'Ljubiša Spajić':'75'',88'''}",,,,,,Crvena Zvezda,,,,,,octavos,20000
+CHAMPIONS,0,,,,,,,Ajax,,,,,,-373852800000,1958-02-26,1957/1958,4,"{'Gyula Szilágyi':'9'',39''','D. Bundzsak':'7''','Lajos Csordás':'29'''}",,,,,,Budapesti Vasas,,,,,,cuartos,70000
+CHAMPIONS,1,"{'R. Dienst':'58'''}",,,,,,Rapid Wien,,,,,,-386553600000,1957-10-02,1957/1958,4,"{'E. Grillo':'4''','Amos Mariani':'82''','Gastone Bean':'8'''}",,,"{'E. Cucchiaroni':'80'''}",,,Milan,,,,,,1/16 final,15000
+CHAMPIONS,0,,,,,,,Real Madrid,,,,,,-369792000000,1958-04-14,1957/1958,2,"{'D. Bundzsak':'25'''}",,,,,,Budapesti Vasas,,,,,,semifinales,100000
+CHAMPIONS,1,"{'G. Galli':'44'''}",,,,,,Milan,,,,,,-375062400000,1958-02-12,1957/1958,1,,,,,,,B. Dortmund,,,,,,cuartos,28000
+CHAMPIONS,1,"{'Palmeiro':'48'''}",,,,,,Benfica,,,,,,-387676800000,1957-09-19,1957/1958,3,"{'Pahuet':'46''','Antoniet':'59''','Pepillo':'79'''}",,,,,,Sevilla,,,,,,1/16 final,40000
+CHAMPIONS,1,"{'Davie Wilson':'61'''}",,,,,,Rangers FC,,,,,,-387158400000,1957-09-25,1957/1958,2,"{'R. Ferrier':'18''','Jean Oleksiak':'72'''}",,,,,,Saint-Étienne,,,,,,1/16 final,29517
+CHAMPIONS,2,"{'E. Grillo':'78''','J. Schiaffino':'59'''}",,,,,,Milan,,,,,,-365925600000,1958-05-28,1957/1958,3,"{'P. Gento':'107''','J. Rial':'79''','A. Di Stéfano':'74'''}",,,,,,Real Madrid,,,,,,final,
+CHAMPIONS,0,,,,,,,AGF Aarhus,,,,,,-381715200000,1957-11-27,1957/1958,4,"{'Loren':'24'',52''','Antoniet':'6'',30'''}",,,,,,Sevilla,,,,,,octavos,40000
+CHAMPIONS,0,,,,,,,Budapesti Vasas,,,,,,-370828800000,1958-04-02,1957/1958,4,"{'Marsal':'46''','A. Di Stéfano':'9'',50'''}",,,,,,Real Madrid,,,,,,semifinales,120000
+CHAMPIONS,0,,,,,,,Rangers FC,,,,,,-380764800000,1957-12-08,1957/1958,2,"{'G. Galli':'48''','Dario Baruffi':'37'''}",,,,,,Milan,,,,,,octavos,5000
+CHAMPIONS,1,"{'Z. Szarzynski':'3'''}",,,"{'Krzysztof Baszkiewicz':'70'''}",,,Gwardia Warszawa,,,,,,-385430400000,1957-10-15,1957/1958,1,"{'Willy Tröger':'90'''}",,,,,,Erzgebirge Aue,,,,,,1/16 final,15000
+CHAMPIONS,0,,,,,,,Antwerp,,,,,,-381628800000,1957-11-28,1957/1958,6,"{'Marsal':'52''','R. Kopa':'79''','P. Gento':'89''','J. Rial':'2'',4'',41'''}",,,,,,Real Madrid,,,,,,octavos,72245
+CHAMPIONS,4,"{'E. Grillo':'74'',84''','Dario Baruffi':'80''','Gastone Bean':'86'''}",,,,,,Milan,,,,,,-381715200000,1957-11-27,1957/1958,1,"{'Max Murray':'32'''}",,,,,,Rangers FC,,,,,,octavos,85000
+CHAMPIONS,6,"{'Tommy Taylor':'36'',63''','Johnny Berry':'71''','Liam Whelan':'51'',57''','David Pegg':'72'''}",,,,,,Man. Utd,,,,,,-387158400000,1957-09-25,1957/1958,0,,,,,,,Shamrock Rovers,,,,,,1/16 final,45000
+CHAMPIONS,0,,,,,,,Man. Utd,,,,,,-367200000000,1958-05-14,1957/1958,4,"{'J. Schiaffino':'2'',77''','G. Danova':'65'''}",,,,,,Milan,,,,,,semifinales,60000
+CHAMPIONS,2,"{'E. Grillo':'20''','Gastone Bean':'76'''}",,,,,,Milan,,,,,,-385948800000,1957-10-09,1957/1958,5,"{'A. Korner':'1''','Hans Riegler':'61''','G. Hanappi':'79''','R. Dienst':'31''','Josef Bertalan':'57'''}",,,,,,Rapid Wien,,,,,,1/16 final,25000
+CHAMPIONS,5,"{'Antun Rudinski':'47'',55''','B. Kostić':'11'',16''','R. Mitić':'87'''}",,,,,,Crvena Zvezda,,,,,,-388886400000,1957-09-05,1957/1958,0,,,,,,,Stade Dudelange,,,,,,1/16 final,8000
+CHAMPIONS,1,"{'Lazar Tasić':'35'''}",,,,,,Crvena Zvezda,,,,,,-377568000000,1958-01-14,1957/1958,2,"{'Eddie Colman':'81''','Bobby Charlton':'65'''}",,,,,,Man. Utd,,,,,,cuartos,60000
+CHAMPIONS,1,"{'J. Schiaffino':'24'''}",,,,,,Milan,,,,,,-367718400000,1958-05-08,1957/1958,2,"{'Dennis Viollet':'39'''}",,,,,,Man. Utd,,,,,,semifinales,44480
+CHAMPIONS,0,,,,,,,FK Dukla Praha,,,,,,-382320000000,1957-11-20,1957/1958,3,"{'Tommy Taylor':'65''','C. Webster':'63''','David Pegg':'79'''}",,,,,,Man. Utd,,,,,,octavos,60000
+CHAMPIONS,3,"{'John Jensen':'40''','Peder Kjær-Andersen':'13'',45'''}",,,,,,AGF Aarhus,,,,,,-387158400000,1957-09-25,1957/1958,0,,,,,,,Glenavon,,,,,,1/16 final,33000
+CHAMPIONS,1,"{'Alfred Niepieklo':'12'''}",,,,,,B. Dortmund,,,,,,-380764800000,1957-12-08,1957/1958,3,"{'Nicolae Tătaru':'17''','Gheorghe Constantin':'25''','Ion Alexandrescu':'45'''}",,,,,,FCSB,,,,,,octavos,60000
+CHAMPIONS,1,"{'Siegfried Kaiser':'79'''}",,,,,,Erzgebirge Aue,,,,,,-388368000000,1957-09-11,1957/1958,3,"{'Jan Gawroński':'88''','Boleslaw Lewandowski':'59''','Krzysztof Baszkiewicz':'49'''}",,,,,,Gwardia Warszawa,,,,,,1/16 final,30000
+CHAMPIONS,2,"{'Ivan Toplak':'88''','B. Kostić':'90'''}",,,,,,Crvena Zvezda,,,,,,-383875200000,1957-11-02,1957/1958,2,"{'H. Källgren':'85''','Olle Håkansson':'75'''}",,,,,,Norrköping,,,,,,octavos,10893
+CHAMPIONS,2,"{'Jimmy Mccann':'55''','T. Hamilton':'66'''}",,,,,,Shamrock Rovers,,,,,,-386553600000,1957-10-02,1957/1958,3,"{'Dennis Viollet':'5'',60''','David Pegg':'20'''}",,,,,,Man. Utd,,,,,,1/16 final,33754
+CHAMPIONS,2,"{'Josef Bertalan':'72'''}",,,,,,Rapid Wien,,,,,,-384134400000,1957-10-30,1957/1958,4,"{'J. Schiaffino':'55''','M. Bergamaschi':'41''','Gastone Bean':'8'',83'''}",,,,,,Milan,,,,,,1/16 final,26000
+CHAMPIONS,1,"{'Adi Preissler':'37'''}",,,,,,B. Dortmund,,,,,,-373852800000,1958-02-26,1957/1958,4,"{'E. Grillo':'86''','G. Galli':'63''','N. Liedholm':'21''','E. Cucchiaroni':'11'''}",,,,,,Milan,,,,,,cuartos,25000
+CHAMPIONS,1,"{'Rachid Mekhloufi':'14'''}",,,"{'Richard Tylinski':'53'''}",,,Saint-Étienne,,,,,,-388972800000,1957-09-04,1957/1958,3,"{'Billy Simpson':'82''','Don Kichenbrand':'19''','Alex Scott':'47'''}",,,,,,Rangers FC,,,,,,1/16 final,85000

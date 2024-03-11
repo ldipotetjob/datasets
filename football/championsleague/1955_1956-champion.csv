@@ -1,0 +1,30 @@
+leagueid,awaygoals,awaygoalsplayer,awayassistplayer,awaycardsyellow,awaycardsred,awaycardsyellowred,awaysubstitution,awayteam,awaypossession,awayshotsontarge,awaycorners,awayfouls,awaygoliesaves,dategame,shortdate,season,homegoal,homegoalsplayer,homeassistplayer,homecardsyellow,homecardsred,homecardsyellowred,homesubstitution,hometeam,homepossession,homeshotsontarget,homecorners,homefouls,homegoliesaves,matchweek,attendance
+CHAMPIONS,2,"{'Valter De Castro':'49'',77'''}",,,,,,Sporting CP,,,,,,-448848000000,1955-10-12,1955/1956,5,"{'M. Milutinovic':'15'',29'',64'',74''','Stanoje Jocić':'88'''}",,,,,,Partizan Beograd,,,,,,octavos,15000
+CHAMPIONS,3,"{'M. Hidalgo':'62''','M. Leblond':'6''','J. Templin':'10'''}",,,,,,Stade de Reims,,,,,,-427615200000,1956-06-13,1955/1956,4,"{'Marquitos':'67''','J. Rial':'30'',79''','A. Di Stéfano':'14'''}",,,,,,Real Madrid,,,,,,final,
+CHAMPIONS,4,"{'Herbert Martin':'69''','Peter Krieger':'5''','Waldemar Philippi':'43''','Karl Schirra':'67'''}",,,,,,Saarbrücken,,,,,,-447120000000,1955-11-01,1955/1956,3,"{'J. Schiaffino':'33''','Giorgio Dal Monte':'39''','A. Frignani':'15'''}",,,,,,Milan,,,,,,octavos,18000
+CHAMPIONS,2,"{'Gunnar Nordahl':'9''','J. Schiaffino':'30'''}",,,,,,Milan,,,,,,-432432000000,1956-04-19,1955/1956,4,"{'Roque Olsen':'40''','Joseíto':'25''','J. Rial':'6''','A. Di Stéfano':'62'''}",,,,,,Real Madrid,,,,,,semifinales,129690
+CHAMPIONS,2,"{'L. Glovacki':'7'',72'''}",,,,,,Stade de Reims,,,,,,-450662400000,1955-09-21,1955/1956,0,,,,,,,AGF Aarhus,,,,,,octavos,18000
+CHAMPIONS,0,,,,,,,Real Madrid,,,,,,-439430400000,1956-01-29,1955/1956,3,"{'M. Milutinovic':'24'',87'''}",,,,,,Partizan Beograd,,,,,,cuartos,40000
+CHAMPIONS,4,"{'E. Beraldo':'86''','Valentino Valli':'8'',77'''}",,,,,,Milan,,,,,,-445219200000,1955-11-23,1955/1956,1,"{'Herbert Binkert':'32'''}",,,,,,Saarbrücken,,,,,,octavos,15000
+CHAMPIONS,0,,,,,,,Partizan Beograd,,,,,,-442454400000,1955-12-25,1955/1956,4,"{'Castaño':'12'',23''','P. Gento':'36''','A. Di Stéfano':'70'''}",,,,,,Real Madrid,,,,,,cuartos,105532
+CHAMPIONS,1,"{'Gunnar Nordahl':'20'''}",,,,,,Milan,,,,,,-440380800000,1956-01-18,1955/1956,1,,,,,,,Rapid Wien,,,,,,cuartos,18000
+CHAMPIONS,0,,,,,,,Gwardia Warszawa,,,,,,-450748800000,1955-09-20,1955/1956,0,,,,,,,Djurgårdens,,,,,,octavos,3574
+CHAMPIONS,4,"{'Lawrie Reilly':'44''','W. Ormond':'81''','E. Turnbull':'35'',53'''}",,,,,,Hibernian FC,,,,,,-451267200000,1955-09-14,1955/1956,0,,,,,,,RW Essen,,,,,,octavos,5000
+CHAMPIONS,0,,,,,,,Djurgårdens,,,,,,-444787200000,1955-11-28,1955/1956,1,,,,,,,Hibernian FC,,,,,,cuartos,31346
+CHAMPIONS,4,"{'R. Bliard':'20'',44''','L. Glovacki':'6''','J. Templin':'52'''}",,,,,,Stade de Reims,,,,,,-442195200000,1955-12-28,1955/1956,4,"{'P. Palotas':'53'',82'''}",,,,,,MTK Budapest,,,,,,cuartos,36088
+CHAMPIONS,1,"{'Fritz Abromeit':'47'''}",,,,,,RW Essen,,,,,,-448848000000,1955-10-12,1955/1956,1,"{'Archie Buchanan':'5'''}",,,,,,Hibernian FC,,,,,,octavos,30000
+CHAMPIONS,1,"{'Joseíto':'65'''}",,,,,,Real Madrid,,,,,,-431395200000,1956-05-01,1955/1956,2,,,,,,,Milan,,,,,,semifinales,30000
+CHAMPIONS,1,"{'L. Glovacki':'57'''}",,,,,,Stade de Reims,,,,,,-432518400000,1956-04-18,1955/1956,0,,,,,,,Hibernian FC,,,,,,semifinales,44941
+CHAMPIONS,0,,,,,,,Rapid Wien,,,,,,-447120000000,1955-11-01,1955/1956,1,"{'Piet Fransen':'9'''}",,,,,,PSV,,,,,,octavos,8000
+CHAMPIONS,4,"{'P. Palotas':'85''','M. Lantos':'78''','N. Hidegkuti':'25''','Imre Kovács':'86'''}",,,,,,MTK Budapest,,,,,,-448243200000,1955-10-19,1955/1956,1,"{'H. Van Den Bosch':'38'''}",,,,,,Anderlecht,,,,,,octavos,33000
+CHAMPIONS,3,"{'H. Van Den Bosch':'39'',79''','René Vanderwilt':'7'''}",,,,,,Anderlecht,,,,,,-451872000000,1955-09-07,1955/1956,6,"{'István Szimcsák':'8''','P. Palotas':'25'',59'',80''','N. Hidegkuti':'28''','K. Sandor':'83'''}",,,,,,MTK Budapest,,,,,,octavos,35000
+CHAMPIONS,4,"{'John Eriksson':'5'',17'',22''','Gösta Sandberg':'29'''}",,,,,,Djurgårdens,,,,,,-448848000000,1955-10-12,1955/1956,1,"{'Krzysztof Baszkiewicz':'14'''}",,,,,,Gwardia Warszawa,,,,,,octavos,25000
+CHAMPIONS,1,"{'Piet Fransen':'18'''}",,,,,,PSV,,,,,,-450662400000,1955-09-21,1955/1956,6,"{'E. Probst':'60''','G. Hanappi':'56''','Bruno Mehsarosch':'55''','A. Korner':'12'',62'',82'''}",,,,,,Rapid Wien,,,,,,octavos,10000
+CHAMPIONS,2,"{'Franz Golobic':'35''','R. Dienst':'59'''}",,,,,,Rapid Wien,,,,,,-438220800000,1956-02-12,1955/1956,7,"{'Gunnar Nordahl':'23'',50''','A. Frignani':'56''','Amos Mariani':'15''','J. Schiaffino':'75''','Eduardo Ricagni':'26'',63'''}",,,,,,Milan,,,,,,cuartos,35000
+CHAMPIONS,0,,,,,,,Servette,,,,,,-448848000000,1955-10-12,1955/1956,5,"{'Molowny':'54''','Joseíto':'44''','J. Rial':'46''','A. Di Stéfano':'29'',61'''}",,,,,,Real Madrid,,,,,,octavos,40318
+CHAMPIONS,3,"{'James Mulkerrin':'49''','Bobby Combe':'18'''}",,,,,,Hibernian FC,,,,,,-445219200000,1955-11-23,1955/1956,1,"{'Birger Eklund':'1'''}",,,,,,Djurgårdens,,,,,,cuartos,21962
+CHAMPIONS,0,,,,,,,Hibernian FC,,,,,,-433728000000,1956-04-04,1955/1956,2,"{'R. Bliard':'89''','M. Leblond':'67'''}",,,,,,Stade de Reims,,,,,,semifinales,35486
+CHAMPIONS,2,"{'Miguel Muñoz':'74''','J. Rial':'89'''}",,,,,,Real Madrid,,,,,,-451785600000,1955-09-08,1955/1956,0,,,,,,,Servette,,,,,,octavos,7000
+CHAMPIONS,2,"{'Szolnok':'34'''}",,,,,,MTK Budapest,,,,,,-443404800000,1955-12-14,1955/1956,4,"{'R. Bliard':'42''','L. Glovacki':'14''','M. Leblond':'33'',57'''}",,,,,,Stade de Reims,,,,,,cuartos,36088
+CHAMPIONS,2,"{'Henning Bjerregaard':'83''','Erik Jensen':'77'''}",,,,,,AGF Aarhus,,,,,,-447638400000,1955-10-26,1955/1956,2,"{'R. Bliard':'60''','L. Glovacki':'47'''}",,,,,,Stade de Reims,,,,,,octavos,5845
+CHAMPIONS,3,"{'M. Milutinovic':'45'',50''','S. Bobek':'73'''}",,,,,,Partizan Beograd,,,,,,-452131200000,1955-09-04,1955/1956,3,"{'Quim':'65''','João Martins':'14'',78'''}",,,,,,Sporting CP,,,,,,octavos,30000
