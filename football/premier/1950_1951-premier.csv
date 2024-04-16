@@ -1,0 +1,463 @@
+leagueid,awaygoals,awaygoalsplayer,awayassistplayer,awaycardsyellow,awaycardsred,awaycardsyellowred,awaysubstitution,awayteam,awaypossession,awayshotsontarge,awaycorners,awayfouls,awaygoliesaves,dategame,shortdate,season,homegoal,homegoalsplayer,homeassistplayer,homecardsyellow,homecardsred,homecardsyellowred,homesubstitution,hometeam,homepossession,homeshotsontarget,homecorners,homefouls,homegoliesaves,matchweek,attendance
+PRML,1,"{'Willie Moir':'90'''}",,,,,,Bolton Wanderers,,,,,,-608860800000,1950-09-16,1950/1951,0,,,,,,,Aston Villa,,,,,,9,32817
+PRML,0,,,,,,,Man. Utd,,,,,,-606441600000,1950-10-14,1950/1951,3,"{'Peter Goring':'71''','Doug Lishman':'60'''}",,,,,,Arsenal,,,,,,13,66157
+PRML,1,"{'Bob Thomas':'90'''}",,,,,,Fulham,,,,,,-602812800000,1950-11-25,1950/1951,5,"{'Peter Goring':'45''','Alec Forbes':'45''','Doug Lishman':'45'',90'',90'''}",,,,,,Arsenal,,,,,,19,41344
+PRML,3,"{'Leslie Johnston':'90''','Roy Brown':'45''','Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,-600220800000,1950-12-25,1950/1951,0,,,,,,,Arsenal,,,,,,24,36852
+PRML,0,,,,,,,Sheffield Wednesday,,,,,,-610070400000,1950-09-02,1950/1951,3,"{'Jimmy Logie':'45'',45''','Doug Lishman':'45'''}",,,,,,Arsenal,,,,,,5,45647
+PRML,0,,,,,,,Chelsea,,,,,,-610934400000,1950-08-23,1950/1951,0,,,,,,,Arsenal,,,,,,2,61166
+PRML,2,"{'Vic Metcalfe':'90''','Albert Nightingale':'90'''}",,,,,,Huddersfield Town,,,,,,-608860800000,1950-09-16,1950/1951,6,"{'Peter Goring':'45'',45'',90''','Jimmy Logie':'45'',45''','Doug Lishman':'45'''}",,,,,,Arsenal,,,,,,9,51518
+PRML,1,"{'Jack Lee':'45'''}",,,,,,Derby County,,,,,,-605232000000,1950-10-28,1950/1951,3,"{'Peter Goring':'90''','Alec Forbes':'45''','Jimmy Logie':'90'''}",,,,,,Arsenal,,,,,,15,62889
+PRML,1,,,,,,,Aston Villa,,,,,,-593740800000,1951-03-10,1950/1951,2,"{'Reg Lewis':'90'',90'''}",,,,,,Arsenal,,,,,,31,39747
+PRML,4,"{'S. Mortensen':'90'',90''','Alan Withers':'45'''}",,,,,,Blackpool,,,,,,-601603200000,1950-12-09,1950/1951,4,"{'Peter Goring':'45''','Alec Forbes':'45''','Doug Lishman':'90'''}",,,,,,Arsenal,,,,,,21,54445
+PRML,1,"{'Dickie Davis':'45'''}",,,,,,Sunderland,,,,,,-604022400000,1950-11-11,1950/1951,5,"{'Don Roper':'90''','Doug Lishman':'45'',90'',90'',90'''}",,,,,,Arsenal,,,,,,16,68682
+PRML,1,"{'Jimmy Logie':'45'''}",,,,,,Arsenal,,,,,,-605836800000,1950-10-21,1950/1951,1,"{'Larry Canning':'90'''}",,,,,,Aston Villa,,,,,,14,53111
+PRML,5,"{'Gordon Hurst':'90''','H. Jeppson':'45'',45'',90''','John Evans':'45'''}",,,,,,Charlton Athletic,,,,,,-594950400000,1951-02-24,1950/1951,2,"{'Peter Goring':'45'',90'''}",,,,,,Arsenal,,,,,,31,54903
+PRML,1,,,,,,,Middlesbrough,,,,,,-598579200000,1951-01-13,1950/1951,3,"{'Peter Goring':'45''','Reg Lewis':'45'',90'''}",,,,,,Arsenal,,,,,,27,63038
+PRML,1,"{'Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,-592617600000,1951-03-23,1950/1951,0,,,,,,,Arsenal,,,,,,33,49051
+PRML,1,"{'Bill Holden':'45'''}",,,,,,Burnley,,,,,,-600998400000,1950-12-16,1950/1951,0,,,,,,,Arsenal,,,,,,21,32374
+PRML,1,"{'N. Lofthouse':'45'''}",,,,,,Bolton Wanderers,,,,,,-590112000000,1951-04-21,1950/1951,1,"{'Doug Lishman':'90'''}",,,,,,Arsenal,,,,,,41,42040
+PRML,2,"{'Ron Burgess':'45''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,-610675200000,1950-08-26,1950/1951,2,"{'Don Roper':'90'''}",,,,,,Arsenal,,,,,,3,64638
+PRML,1,"{'Peter Farrell':'90'''}",,,,,,Everton,,,,,,-609724800000,1950-09-06,1950/1951,2,"{'Walley Barnes':'45'''}",,,,,,Arsenal,,,,,,6,36576
+PRML,0,,,,,,,West Bromwich Albion,,,,,,-607651200000,1950-09-30,1950/1951,3,"{'Jimmy Logie':'90''','Doug Lishman':'45'',45'''}",,,,,,Arsenal,,,,,,11,51928
+PRML,2,"{'Jimmy Payne':'57''','Albert Stubbins':'12'''}",,,,,,Liverpool,,,,,,-591321600000,1951-04-07,1950/1951,1,"{'Cliff Holton':'45'''}",,,,,,Arsenal,,,,,,39,34664
+PRML,3,"{'Harry Johnston':'90''','S. Mortensen':'90''','J. Mudie':'90'''}",,,,,,Blackpool,,,,,,-596764800000,1951-02-03,1950/1951,0,,,,,,,Aston Villa,,,,,,28,55093
+PRML,1,"{'D. Wilshaw':'90'''}",,,,,,Wolves,,,,,,-592531200000,1951-03-24,1950/1951,2,"{'Cliff Holton':'90'',90'''}",,,,,,Arsenal,,,,,,31,50213
+PRML,0,,,,,,,Newcastle,,,,,,-596764800000,1951-02-03,1950/1951,0,,,,,,,Arsenal,,,,,,29,52074
+PRML,1,"{'Johnny Mckenna':'90'''}",,,,,,Huddersfield Town,,,,,,-594345600000,1951-03-03,1950/1951,0,,,,,,,Aston Villa,,,,,,30,36083
+PRML,3,"{'Duggie Reid':'90''','Cliff Parker':'90''','Len Phillips':'90'''}",,,,,,Portsmouth,,,,,,-590716800000,1951-04-14,1950/1951,3,"{'Johnny Dixon':'90''','Herbie Smith':'90'''}",,,,,,Aston Villa,,,,,,39,33560
+PRML,1,"{'Billy Goffin':'90'''}",,,,,,Aston Villa,,,,,,-608256000000,1950-09-23,1950/1951,1,"{'S. Mortensen':'90'''}",,,,,,Blackpool,,,,,,10,33298
+PRML,1,"{'Jack Balmer':'26'''}",,,,,,Liverpool,,,,,,-610070400000,1950-09-02,1950/1951,1,"{'Frank Moss':'90'''}",,,,,,Aston Villa,,,,,,5,45127
+PRML,2,"{'Billy Morris':'90'',90'''}",,,,,,Burnley,,,,,,-611107200000,1950-08-21,1950/1951,1,"{'Bill Slater':'90'''}",,,,,,Blackpool,,,,,,2,33161
+PRML,2,"{'Billy Morris':'90''','Bill Holden':'90'''}",,,,,,Burnley,,,,,,-593136000000,1951-03-17,1950/1951,3,"{'Larry Canning':'90''','Johnny Dixon':'90''','Derek Pace':'90'''}",,,,,,Aston Villa,,,,,,32,26347
+PRML,0,,,,,,,Fulham,,,,,,-598579200000,1951-01-13,1950/1951,3,"{'Johnny Dixon':'90''','Stan Lynn':'90'''}",,,,,,Aston Villa,,,,,,26,39994
+PRML,3,"{'Wally Fielding':'90''','Harry Potts':'90''','Jimmy Mcintosh':'90'''}",,,,,,Everton,,,,,,-602208000000,1950-12-02,1950/1951,3,"{'Les Smith':'90'',90'''}",,,,,,Aston Villa,,,,,,20,27133
+PRML,1,"{'Jackie Stamps':'90'''}",,,,,,Derby County,,,,,,-600393600000,1950-12-23,1950/1951,1,"{'Stan Lynn':'90'''}",,,,,,Aston Villa,,,,,,23,28129
+PRML,3,"{'Stan Pearson':'61''','Jack Rowley':'14'',65'''}",,,,,,Man. Utd,,,,,,-609897600000,1950-09-04,1950/1951,1,"{'Trevor Ford':'80'''}",,,,,,Aston Villa,,,,,,6,42724
+PRML,2,"{'Billy Gray':'90''','Hugh Billington':'90'''}",,,,,,Chelsea,,,,,,-603417600000,1950-11-18,1950/1951,4,"{'Tommy Thompson':'90''','Johnny Dixon':'90'',90''','Miller Craddock':'90'''}",,,,,,Aston Villa,,,,,,18,27609
+PRML,2,"{'R. Bentley':'90''','Jimmy Bowie':'90'''}",,,,,,Chelsea,,,,,,-607046400000,1950-10-07,1950/1951,3,"{'S. Mortensen':'90''','Bill Slater':'90'',90'''}",,,,,,Blackpool,,,,,,11,29240
+PRML,1,"{'Harry Bell':'90'''}",,,,,,Middlesbrough,,,,,,-604627200000,1950-11-04,1950/1951,0,,,,,,,Aston Villa,,,,,,16,36542
+PRML,1,"{'Dickie Davis':'90'''}",,,,,,Sunderland,,,,,,-611107200000,1950-08-21,1950/1951,3,"{'Colin Gibson':'90''','Johnny Dixon':'90''','Miller Craddock':'90'''}",,,,,,Aston Villa,,,,,,2,37143
+PRML,0,,,,,,,Newcastle,,,,,,-607046400000,1950-10-07,1950/1951,3,"{'Tommy Thompson':'90''','Miller Craddock':'90''','Ivor Powell':'90'''}",,,,,,Aston Villa,,,,,,12,41989
+PRML,3,"{'Peter Murphy':'90''','Leslie Medley':'90''','Len Duquemin':'90'''}",,,,,,Tottenham Hotspur,,,,,,-607651200000,1950-09-30,1950/1951,2,"{'Tommy Thompson':'90''','Les Smith':'90'''}",,,,,,Aston Villa,,,,,,11,36538
+PRML,2,"{'Frank Bowyer':'90''','Albert Mullard':'90'''}",,,,,,Stoke City,,,,,,-588902400000,1951-05-05,1950/1951,6,"{'Tommy Thompson':'90'',90''','Davy Walsh':'90'',90''','Johnny Dixon':'90'''}",,,,,,Aston Villa,,,,,,42,24739
+PRML,0,,,,,,,Wolves,,,,,,-592272000000,1951-03-27,1950/1951,1,"{'Tommy Thompson':'90'''}",,,,,,Aston Villa,,,,,,35,60102
+PRML,1,"{'Dennis Woodhead':'90'''}",,,,,,Sheffield Wednesday,,,,,,-591926400000,1951-03-31,1950/1951,2,"{'Tommy Thompson':'90''','Davy Walsh':'90'''}",,,,,,Aston Villa,,,,,,36,29321
+PRML,1,"{'Don Roper':'45'''}",,,,,,Arsenal,,,,,,-589161600000,1951-05-02,1950/1951,0,,,,,,,Blackpool,,,,,,41,23044
+PRML,0,,,,,,,West Bromwich Albion,,,,,,-611280000000,1950-08-19,1950/1951,2,"{'Colin Gibson':'90''','Johnny Dixon':'90'''}",,,,,,Aston Villa,,,,,,1,58804
+PRML,0,,,,,,,Bolton Wanderers,,,,,,-592617600000,1951-03-23,1950/1951,2,"{'Harry Johnston':'90''','S. Mortensen':'90'''}",,,,,,Blackpool,,,,,,33,33627
+PRML,0,,,,,,,Charlton Athletic,,,,,,-600134400000,1950-12-26,1950/1951,0,,,,,,,Aston Villa,,,,,,25,32837
+PRML,1,"{'Jimmy Glazzard':'90'''}",,,,,,Huddersfield Town,,,,,,-603417600000,1950-11-18,1950/1951,3,"{'Alan Withers':'90'',90'',90'''}",,,,,,Blackpool,,,,,,18,19724
+PRML,0,,,,,,,Portsmouth,,,,,,-594345600000,1951-03-03,1950/1951,3,"{'S. Mortensen':'90''','A. Brown':'90'',90'''}",,,,,,Blackpool,,,,,,30,23521
+PRML,1,"{'Hugh Mclaren':'90'''}",,,,,,Derby County,,,,,,-595555200000,1951-02-17,1950/1951,3,"{'Harry Johnston':'90''','S. Mortensen':'90'',90'''}",,,,,,Blackpool,,,,,,29,21002
+PRML,0,,,,,,,Stoke City,,,,,,-591926400000,1951-03-31,1950/1951,3,"{'S. Mortensen':'90'',90''','A. Brown':'90'''}",,,,,,Blackpool,,,,,,38,23106
+PRML,2,"{'Trevor Ford':'90''','Dickie Davis':'90'''}",,,,,,Sunderland,,,,,,-597974400000,1951-01-20,1950/1951,2,"{'Len Stephenson':'90''','Bill Perry':'90'''}",,,,,,Blackpool,,,,,,27,22797
+PRML,1,"{'Roy Swinbourne':'90'''}",,,,,,Wolves,,,,,,-609465600000,1950-09-09,1950/1951,1,"{'Harry Johnston':'90'''}",,,,,,Blackpool,,,,,,7,32204
+PRML,0,,,,,,,Chelsea,,,,,,-609897600000,1950-09-04,1950/1951,1,"{'Billy Hughes':'90'''}",,,,,,Bolton Wanderers,,,,,,6,25457
+PRML,0,,,,,,,Everton,,,,,,-604627200000,1950-11-04,1950/1951,4,"{'S. Mortensen':'90''','J. Mudie':'90'',90''','Bill Perry':'90'''}",,,,,,Blackpool,,,,,,16,20902
+PRML,0,,,,,,,Charlton Athletic,,,,,,-600998400000,1950-12-16,1950/1951,3,"{'Willie Moir':'90''','Harry Webster':'90'',90'''}",,,,,,Bolton Wanderers,,,,,,21,19207
+PRML,0,,,,,,,Liverpool,,,,,,-600220800000,1950-12-25,1950/1951,3,"{'S. Mortensen':'45'',45''','J. Mudie':'90'''}",,,,,,Blackpool,,,,,,24,31867
+PRML,0,,,,,,,Fulham,,,,,,-609897600000,1950-09-04,1950/1951,4,"{'George Mcknight':'90'',90'',90''','J. Mudie':'90'''}",,,,,,Blackpool,,,,,,6,28051
+PRML,0,,,,,,,Derby County,,,,,,-608256000000,1950-09-23,1950/1951,3,"{'N. Lofthouse':'90''','Harry Webster':'90'''}",,,,,,Bolton Wanderers,,,,,,9,36745
+PRML,1,"{'Johnny Downie':'32'''}",,,,,,Man. Utd,,,,,,-588902400000,1951-05-05,1950/1951,1,"{'Bill Perry':'60'''}",,,,,,Blackpool,,,,,,42,22864
+PRML,1,"{'Peter Mckennan':'90'''}",,,,,,Middlesbrough,,,,,,-590716800000,1951-04-14,1950/1951,2,"{'Billy Mcintosh':'90''','J. Mudie':'90'''}",,,,,,Blackpool,,,,,,39,16300
+PRML,0,,,,,,,Charlton Athletic,,,,,,-610675200000,1950-08-26,1950/1951,0,,,,,,,Blackpool,,,,,,3,25484
+PRML,0,,,,,,,Portsmouth,,,,,,-607046400000,1950-10-07,1950/1951,4,"{'N. Lofthouse':'90'',90''','Harry Webster':'90'',90'''}",,,,,,Bolton Wanderers,,,,,,11,36995
+PRML,2,"{'J. Robledo':'90''','Jackie Milburn':'90'''}",,,,,,Newcastle,,,,,,-593136000000,1951-03-17,1950/1951,2,"{'S. Mortensen':'90''','J. Mudie':'90'''}",,,,,,Blackpool,,,,,,32,24825
+PRML,1,"{'Len Duquemin':'90'''}",,,,,,Tottenham Hotspur,,,,,,-600998400000,1950-12-16,1950/1951,0,,,,,,,Blackpool,,,,,,21,22203
+PRML,2,"{'Redfern Froggatt':'90''','Hugh Mcjarrow':'90'''}",,,,,,Sheffield Wednesday,,,,,,-602208000000,1950-12-02,1950/1951,3,"{'Harry Johnston':'90''','S. Mortensen':'90''','Alan Withers':'90'''}",,,,,,Blackpool,,,,,,20,19732
+PRML,0,,,,,,,Everton,,,,,,-594345600000,1951-03-03,1950/1951,2,"{'Bobby Langton':'90''','Ronnie Codd':'90'''}",,,,,,Bolton Wanderers,,,,,,32,36752
+PRML,1,"{'Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,-605836800000,1950-10-21,1950/1951,2,"{'J. Mudie':'90'',90'''}",,,,,,Blackpool,,,,,,14,30536
+PRML,0,,,,,,,Arsenal,,,,,,-602208000000,1950-12-02,1950/1951,3,"{'Bobby Langton':'90'',90''','Willie Moir':'45'''}",,,,,,Bolton Wanderers,,,,,,20,43484
+PRML,1,"{'Bill Holden':'90'''}",,,,,,Burnley,,,,,,-596160000000,1951-02-10,1950/1951,1,,,,,,,Bolton Wanderers,,,,,,29,35540
+PRML,2,"{'S. Mortensen':'90'',90'''}",,,,,,Blackpool,,,,,,-592358400000,1951-03-26,1950/1951,1,"{'Bobby Langton':'90'''}",,,,,,Bolton Wanderers,,,,,,35,42265
+PRML,0,,,,,,,Aston Villa,,,,,,-597974400000,1951-01-20,1950/1951,1,,,,,,,Bolton Wanderers,,,,,,27,29233
+PRML,1,"{'Johnny Campbell':'90'''}",,,,,,Fulham,,,,,,-600134400000,1950-12-26,1950/1951,0,,,,,,,Bolton Wanderers,,,,,,24,43116
+PRML,0,,,,,,,Derby County,,,,,,-591321600000,1951-04-07,1950/1951,1,"{'Terry Lyons':'90'''}",,,,,,Burnley,,,,,,39,21714
+PRML,1,"{'Billy Liddell':'84'''}",,,,,,Liverpool,,,,,,-595555200000,1951-02-17,1950/1951,2,"{'N. Lofthouse':'90''','Don Howe':'45'''}",,,,,,Bolton Wanderers,,,,,,29,34807
+PRML,1,"{'Jimmy Glazzard':'90'''}",,,,,,Huddersfield Town,,,,,,-598579200000,1951-01-13,1950/1951,0,,,,,,,Burnley,,,,,,26,22168
+PRML,2,"{'Alex McCrae':'90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,-603417600000,1950-11-18,1950/1951,0,,,,,,,Bolton Wanderers,,,,,,17,37296
+PRML,0,,,,,,,Huddersfield Town,,,,,,-593136000000,1951-03-17,1950/1951,4,"{'Bobby Langton':'90''','N. Lofthouse':'90''','Johnny Wheeler':'90''','Harry Webster':'90'''}",,,,,,Bolton Wanderers,,,,,,32,29796
+PRML,1,,,,,,,Stoke City,,,,,,-604627200000,1950-11-04,1950/1951,1,"{'Harry Webster':'90'''}",,,,,,Bolton Wanderers,,,,,,16,34244
+PRML,2,"{'J. Robledo':'90''','Ernie Taylor':'90'''}",,,,,,Newcastle,,,,,,-605836800000,1950-10-21,1950/1951,0,,,,,,,Bolton Wanderers,,,,,,13,49213
+PRML,0,,,,,,,Sheffield Wednesday,,,,,,-600393600000,1950-12-23,1950/1951,1,"{'Billy Morris':'90'''}",,,,,,Burnley,,,,,,22,21272
+PRML,0,,,,,,,Man. Utd,,,,,,-610675200000,1950-08-26,1950/1951,1,"{'N. Lofthouse':'78'''}",,,,,,Bolton Wanderers,,,,,,3,40759
+PRML,1,"{'Dennis Woodhead':'90'''}",,,,,,Sheffield Wednesday,,,,,,-590716800000,1951-04-14,1950/1951,0,,,,,,,Bolton Wanderers,,,,,,38,19956
+PRML,4,"{'Peter Murphy':'90''','Leslie Medley':'90''','Sonny Walters':'90''','Len Duquemin':'90'''}",,,,,,Tottenham Hotspur,,,,,,-610934400000,1950-08-23,1950/1951,1,"{'Bobby Langton':'90'''}",,,,,,Bolton Wanderers,,,,,,2,21745
+PRML,0,,,,,,,Aston Villa,,,,,,-605232000000,1950-10-28,1950/1951,2,"{'Bill Holden':'90''','Reg Attwell':'90'''}",,,,,,Burnley,,,,,,15,26471
+PRML,0,,,,,,,Bolton Wanderers,,,,,,-601603200000,1950-12-09,1950/1951,2,"{'Bill Holden':'90''','J. Mcilroy':'90'''}",,,,,,Burnley,,,,,,20,31124
+PRML,2,"{'Bob Thomas':'90'',90'''}",,,,,,Fulham,,,,,,-590112000000,1951-04-21,1950/1951,0,,,,,,,Burnley,,,,,,41,19929
+PRML,1,"{'Kevin Baron':'12'''}",,,,,,Liverpool,,,,,,-602812800000,1950-11-25,1950/1951,1,"{'Jackie Chew':'90'''}",,,,,,Burnley,,,,,,18,31901
+PRML,2,"{'Len Shackleton':'90''','I. Broadis':'90'''}",,,,,,Sunderland,,,,,,-609465600000,1950-09-09,1950/1951,1,"{'Harry Webster':'90'''}",,,,,,Bolton Wanderers,,,,,,7,30745
+PRML,3,"{'Peter Goring':'45''','Alec Forbes':'45''','Don Roper':'90'''}",,,,,,Arsenal,,,,,,-607046400000,1950-10-07,1950/1951,1,"{'Riley Cullum':'90'''}",,,,,,Charlton Athletic,,,,,,11,63539
+PRML,2,"{'John Aston':'60''','Harry Mcshane':'18'''}",,,,,,Man. Utd,,,,,,-592531200000,1951-03-24,1950/1951,1,"{'Roy Stephenson':'21'''}",,,,,,Burnley,,,,,,36,36656
+PRML,2,"{'Dennis Gordon':'90''','Ray Barlow':'90'''}",,,,,,West Bromwich Albion,,,,,,-591926400000,1951-03-31,1950/1951,0,,,,,,,Bolton Wanderers,,,,,,36,21860
+PRML,1,"{'Jackie Milburn':'90'''}",,,,,,Newcastle,,,,,,-608860800000,1950-09-16,1950/1951,1,"{'George Bray':'90'''}",,,,,,Burnley,,,,,,8,33283
+PRML,1,"{'Mick Reid':'90'''}",,,,,,Portsmouth,,,,,,-609897600000,1950-09-04,1950/1951,1,"{'Reg Kirkham':'90'''}",,,,,,Burnley,,,,,,6,30670
+PRML,1,"{'Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,-607651200000,1950-09-30,1950/1951,1,"{'Terry Lyons':'90'''}",,,,,,Burnley,,,,,,10,23776
+PRML,1,"{'Jesse Pye':'90'''}",,,,,,Wolves,,,,,,-589507200000,1951-04-28,1950/1951,2,"{'Willie Moir':'90''','Ronnie Codd':'90'''}",,,,,,Bolton Wanderers,,,,,,40,26775
+PRML,1,"{'Trevor Ford':'90'''}",,,,,,Sunderland,,,,,,-593740800000,1951-03-10,1950/1951,1,"{'J. Mcilroy':'90'''}",,,,,,Burnley,,,,,,33,25065
+PRML,1,"{'Don Roper':'90'''}",,,,,,Arsenal,,,,,,-611280000000,1950-08-19,1950/1951,0,,,,,,,Burnley,,,,,,1,32706
+PRML,1,"{'Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,-596764800000,1951-02-03,1950/1951,0,,,,,,,Burnley,,,,,,28,19101
+PRML,2,"{'Cliff Birkett':'46''','John Aston':'39'''}",,,,,,Man. Utd,,,,,,-597974400000,1951-01-20,1950/1951,1,"{'Gordon Hurst':'10'''}",,,,,,Charlton Athletic,,,,,,27,31978
+PRML,0,,,,,,,Wolves,,,,,,-604022400000,1950-11-11,1950/1951,2,"{'Bill Holden':'90''','J. Mcilroy':'90'''}",,,,,,Burnley,,,,,,16,36157
+PRML,0,,,,,,,Blackpool,,,,,,-610416000000,1950-08-29,1950/1951,0,,,,,,,Burnley,,,,,,4,38688
+PRML,1,"{'Tommy Eglington':'90'''}",,,,,,Everton,,,,,,-600134400000,1950-12-26,1950/1951,1,"{'J. Mcilroy':'90'''}",,,,,,Burnley,,,,,,24,38444
+PRML,1,"{'John Harris':'90'''}",,,,,,Chelsea,,,,,,-592617600000,1951-03-23,1950/1951,2,"{'Bill Holden':'90'',90'''}",,,,,,Burnley,,,,,,35,22266
+PRML,1,"{'Dennis Woodhead':'90'''}",,,,,,Sheffield Wednesday,,,,,,-598579200000,1951-01-13,1950/1951,2,"{'H. Jeppson':'90''','Riley Cullum':'90'''}",,,,,,Charlton Athletic,,,,,,26,21785
+PRML,3,"{'S. Mortensen':'90''','J. Mudie':'90'',90'''}",,,,,,Blackpool,,,,,,-600393600000,1950-12-23,1950/1951,2,"{'Charlie Vaughan':'90''','Bill Kiernan':'90'''}",,,,,,Charlton Athletic,,,,,,22,27220
+PRML,1,"{'George Hardwick':'90'''}",,,,,,Middlesbrough,,,,,,-610070400000,1950-09-02,1950/1951,3,"{'Roy Stephenson':'90'',90''','Billy Morris':'90'''}",,,,,,Burnley,,,,,,5,29779
+PRML,1,"{'John Evans':'90'''}",,,,,,Charlton Athletic,,,,,,-606441600000,1950-10-14,1950/1951,5,"{'Roy Stephenson':'90''','Billy Morris':'90''','Bill Holden':'90'',90''','Jack Hays':'90'''}",,,,,,Burnley,,,,,,12,20008
+PRML,0,,,,,,,Tottenham Hotspur,,,,,,-594950400000,1951-02-24,1950/1951,2,"{'Jackie Chew':'90'',90'''}",,,,,,Burnley,,,,,,31,33047
+PRML,0,,,,,,,Liverpool,,,,,,-597369600000,1951-01-27,1950/1951,1,"{'H. Jeppson':'45'''}",,,,,,Charlton Athletic,,,,,,28,25313
+PRML,2,"{'Harold Hassall':'90'''}",,,,,,Huddersfield Town,,,,,,-602208000000,1950-12-02,1950/1951,3,"{'Charlie Vaughan':'90''','John Evans':'90''','Bill Kiernan':'90'''}",,,,,,Charlton Athletic,,,,,,19,19605
+PRML,0,,,,,,,Sunderland,,,,,,-595555200000,1951-02-17,1950/1951,3,"{'Gordon Hurst':'90''','John Evans':'90''','Bill Kiernan':'90'''}",,,,,,Charlton Athletic,,,,,,30,24627
+PRML,1,"{'Peter Harris':'90'''}",,,,,,Portsmouth,,,,,,-591926400000,1951-03-31,1950/1951,0,,,,,,,Charlton Athletic,,,,,,37,34341
+PRML,1,"{'Tommy Eglington':'90'''}",,,,,,Everton,,,,,,-605836800000,1950-10-21,1950/1951,2,"{'Charlie Vaughan':'90''','Dudley Forbes':'90'''}",,,,,,Charlton Athletic,,,,,,13,27965
+PRML,2,"{'Jack Parry':'90''','Johnny Morris':'90'''}",,,,,,Derby County,,,,,,-588902400000,1951-05-05,1950/1951,1,"{'Tommy Lumley':'90'''}",,,,,,Charlton Athletic,,,,,,42,17275
+PRML,0,,,,,,,Stoke City,,,,,,-593136000000,1951-03-17,1950/1951,2,"{'H. Jeppson':'90''','Bill Kiernan':'90'''}",,,,,,Charlton Athletic,,,,,,34,19945
+PRML,0,,,,,,,Burnley,,,,,,-594345600000,1951-03-03,1950/1951,0,,,,,,,Charlton Athletic,,,,,,32,30491
+PRML,1,"{'Freddie Cox':'45'''}",,,,,,Arsenal,,,,,,-610329600000,1950-08-30,1950/1951,0,,,,,,,Chelsea,,,,,,4,48792
+PRML,1,"{'Herbie Smith':'90'''}",,,,,,Aston Villa,,,,,,-591321600000,1951-04-07,1950/1951,1,"{'Reg Williams':'90'''}",,,,,,Chelsea,,,,,,38,28569
+PRML,2,"{'Tommy Thompson':'90''','Les Smith':'90'''}",,,,,,Aston Villa,,,,,,-600220800000,1950-12-25,1950/1951,2,"{'Bill Kiernan':'90'',90'''}",,,,,,Charlton Athletic,,,,,,24,17192
+PRML,2,"{'Roy Swinbourne':'90''','J. Mullen':'90'''}",,,,,,Wolves,,,,,,-608256000000,1950-09-23,1950/1951,3,"{'Charlie Vaughan':'90''','John Evans':'90''','Riley Cullum':'90'''}",,,,,,Charlton Athletic,,,,,,9,43998
+PRML,3,"{'N. Lofthouse':'90'',90'',90'''}",,,,,,Bolton Wanderers,,,,,,-611280000000,1950-08-19,1950/1951,4,"{'Gordon Hurst':'90'',90''','Sid O''Linn':'90'',90'''}",,,,,,Charlton Athletic,,,,,,1,30487
+PRML,2,"{'Charlie Dyke':'90''','Robert Campbell':'90'''}",,,,,,Chelsea,,,,,,-604627200000,1950-11-04,1950/1951,1,"{'Gordon Hurst':'90'''}",,,,,,Charlton Athletic,,,,,,15,29913
+PRML,1,,,,,,,Tottenham Hotspur,,,,,,-610070400000,1950-09-02,1950/1951,1,"{'Charlie Vaughan':'90'''}",,,,,,Charlton Athletic,,,,,,5,61480
+PRML,4,"{'Peter Harris':'90''','Duggie Reid':'90'',90'',90'''}",,,,,,Portsmouth,,,,,,-600134400000,1950-12-26,1950/1951,1,"{'John Harris':'90'''}",,,,,,Chelsea,,,,,,23,41909
+PRML,3,"{'Fred Richardson':'90''','Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,-603417600000,1950-11-18,1950/1951,2,"{'Gordon Hurst':'90''','John Evans':'90'''}",,,,,,Charlton Athletic,,,,,,17,21876
+PRML,3,"{'J. Robledo':'90''','Ernie Taylor':'90'''}",,,,,,Newcastle,,,,,,-590716800000,1951-04-14,1950/1951,1,"{'Bill Kiernan':'90'''}",,,,,,Charlton Athletic,,,,,,39,25798
+PRML,0,,,,,,,Middlesbrough,,,,,,-589507200000,1951-04-28,1950/1951,3,"{'Tommy Lumley':'90''','Gordon Hurst':'90''','Chris Duffy':'90'''}",,,,,,Charlton Athletic,,,,,,41,11329
+PRML,0,,,,,,,Sunderland,,,,,,-605232000000,1950-10-28,1950/1951,3,"{'Robert Campbell':'90'',90''','Hugh Billington':'90'''}",,,,,,Chelsea,,,,,,14,51315
+PRML,1,"{'Tommy Eglington':'49'''}",,,,,,Everton,,,,,,-607651200000,1950-09-30,1950/1951,2,"{'Billy Gray':'55''','Robert Campbell':'43'''}",,,,,,Chelsea,,,,,,10,34790
+PRML,0,,,,,,,Fulham,,,,,,-601603200000,1950-12-09,1950/1951,2,"{'B. Smith':'90''','Benny Jones':'90'''}",,,,,,Chelsea,,,,,,20,43835
+PRML,0,,,,,,,Man. Utd,,,,,,-604022400000,1950-11-11,1950/1951,1,"{'Hugh Billington':'59'''}",,,,,,Chelsea,,,,,,16,51882
+PRML,1,"{'Lindy Delapenha':'90'''}",,,,,,Middlesbrough,,,,,,-600393600000,1950-12-23,1950/1951,1,"{'Hugh Billington':'90'''}",,,,,,Chelsea,,,,,,21,35323
+PRML,0,,,,,,,Bolton Wanderers,,,,,,-588902400000,1951-05-05,1950/1951,4,"{'R. Bentley':'90'',90''','B. Smith':'90'',90'''}",,,,,,Chelsea,,,,,,42,38928
+PRML,2,"{'S. Mortensen':'90''','J. Mudie':'90'''}",,,,,,Blackpool,,,,,,-594604800000,1951-02-28,1950/1951,0,,,,,,,Chelsea,,,,,,29,36074
+PRML,2,"{'Roy Stephenson':'90''','Billy Morris':'90'''}",,,,,,Burnley,,,,,,-592358400000,1951-03-26,1950/1951,0,,,,,,,Chelsea,,,,,,37,23723
+PRML,3,"{'H. Jeppson':'','John Evans':'90''','Bill Kiernan':'90'''}",,,,,,Charlton Athletic,,,,,,-592531200000,1951-03-24,1950/1951,2,"{'R. Bentley':'90''','Reg Williams':'90'''}",,,,,,Chelsea,,,,,,36,38196
+PRML,1,"{'Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,-596764800000,1951-02-03,1950/1951,1,"{'Billy Gray':'90'''}",,,,,,Chelsea,,,,,,26,27063
+PRML,0,,,,,,,Fulham,,,,,,-610329600000,1950-08-30,1950/1951,0,,,,,,,Charlton Athletic,,,,,,4,28997
+PRML,1,"{'Roy Swinbourne':'90'''}",,,,,,Wolves,,,,,,-589766400000,1951-04-25,1950/1951,2,"{'R. Bentley':'90''','Ken Armstrong':'90'''}",,,,,,Chelsea,,,,,,40,36410
+PRML,2,"{'Len Duquemin':'90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,-606441600000,1950-10-14,1950/1951,0,,,,,,,Chelsea,,,,,,12,65992
+PRML,2,"{'Jack Lee':'90''','Johnny Morris':'90'''}",,,,,,Derby County,,,,,,-602812800000,1950-11-25,1950/1951,1,"{'Robert Campbell':'90'''}",,,,,,Chelsea,,,,,,18,26908
+PRML,1,"{'Billy Morris':'90'''}",,,,,,Burnley,,,,,,-603417600000,1950-11-18,1950/1951,1,"{'Johnny Morris':'90'''}",,,,,,Derby County,,,,,,17,21418
+PRML,0,,,,,,,Liverpool,,,,,,-590112000000,1951-04-21,1950/1951,1,"{'B. Smith':'90'''}",,,,,,Chelsea,,,,,,39,30134
+PRML,1,"{'Bobby Mitchell':'90'''}",,,,,,Newcastle,,,,,,-598579200000,1951-01-13,1950/1951,3,"{'B. Smith':'90'',90''','Reg Williams':'90'''}",,,,,,Chelsea,,,,,,24,43840
+PRML,2,"{'George Hepplewhite':'90''','Jeff Taylor':'90'''}",,,,,,Huddersfield Town,,,,,,-610070400000,1950-09-02,1950/1951,1,"{'John Harris':'90'''}",,,,,,Chelsea,,,,,,5,41112
+PRML,0,,,,,,,Sheffield Wednesday,,,,,,-611280000000,1950-08-19,1950/1951,4,"{'R. Bentley':'90'',90''','Billy Gray':'90''','Hugh Billington':'90'''}",,,,,,Chelsea,,,,,,1,48468
+PRML,0,,,,,,,Chelsea,,,,,,-590716800000,1951-04-14,1950/1951,1,"{'Reg Harrison':'90'''}",,,,,,Derby County,,,,,,37,16364
+PRML,0,,,,,,,Charlton Athletic,,,,,,-609724800000,1950-09-06,1950/1951,5,"{'Jack Lee':'90'',90'',90''','Jackie Stamps':'90''','Tommy Powell':'90'''}",,,,,,Derby County,,,,,,6,21266
+PRML,2,"{'Bedford Jezzard':'90'''}",,,,,,Fulham,,,,,,-608860800000,1950-09-16,1950/1951,3,"{'Jack Lee':'90'',90''','Jackie Stamps':'90'''}",,,,,,Derby County,,,,,,8,25329
+PRML,1,"{'Davy Walsh':'90'''}",,,,,,West Bromwich Albion,,,,,,-608860800000,1950-09-16,1950/1951,1,"{'John Harris':'90'''}",,,,,,Chelsea,,,,,,8,39570
+PRML,2,"{'Miller Craddock':'90''','Les Smith':'90'''}",,,,,,Aston Villa,,,,,,-610675200000,1950-08-26,1950/1951,4,"{'Jack Lee':'90'',90''','Tommy Powell':'90''','Reg Harrison':'90'''}",,,,,,Derby County,,,,,,3,26865
+PRML,3,"{'Terry Ryder':'90''','Ike Clarke':'90''','Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,-602208000000,1950-12-02,1950/1951,2,"{'Reg Harrison':'90''','Tim Ward':'90'''}",,,,,,Derby County,,,,,,19,23872
+PRML,2,"{'N. Lofthouse':'90''','Harry Webster':'90'''}",,,,,,Bolton Wanderers,,,,,,-596764800000,1951-02-03,1950/1951,2,"{'Jackie Stamps':'90''','Johnny Morris':'90'''}",,,,,,Derby County,,,,,,27,19879
+PRML,2,"{'Peter Goring':'90''','Reg Lewis':'90'''}",,,,,,Arsenal,,,,,,-593136000000,1951-03-17,1950/1951,4,"{'Hugh Mclaren':'45'',90''','Jack Lee':'45'',45'''}",,,,,,Derby County,,,,,,34,22168
+PRML,0,,,,,,,Middlesbrough,,,,,,-591926400000,1951-03-31,1950/1951,6,"{'Jack Lee':'90''','Albert Mays':'90''','Reg Harrison':'90''','Johnny Morris':'90'',90''','Hugh Mclaren':'90'''}",,,,,,Derby County,,,,,,36,16788
+PRML,2,"{'Tommy Walker':'90''','J. Robledo':'90'''}",,,,,,Newcastle,,,,,,-594345600000,1951-03-03,1950/1951,1,"{'Jack Lee':'90'''}",,,,,,Derby County,,,,,,31,25599
+PRML,1,"{'S. Mortensen':'90'''}",,,,,,Blackpool,,,,,,-607651200000,1950-09-30,1950/1951,4,"{'Jackie Stamps':'90'',90'',90'',90'''}",,,,,,Derby County,,,,,,11,32471
+PRML,1,"{'Harry Potts':'63'''}",,,,,,Everton,,,,,,-589507200000,1951-04-28,1950/1951,0,,,,,,,Derby County,,,,,,41,9129
+PRML,1,"{'Hugh Mcjarrow':'90'''}",,,,,,Sheffield Wednesday,,,,,,-605836800000,1950-10-21,1950/1951,4,"{'Hugh Mclaren':'90''','Jackie Stamps':'90''','Johnny Morris':'90'''}",,,,,,Derby County,,,,,,14,31162
+PRML,0,,,,,,,Huddersfield Town,,,,,,-604627200000,1950-11-04,1950/1951,3,"{'Hugh Mclaren':'90''','Jackie Stamps':'90''','Reg Harrison':'90'''}",,,,,,Derby County,,,,,,15,21593
+PRML,5,"{'Trevor Ford':'90'',90''','Dickie Davis':'90'',90''','Tommy Wright':'90'''}",,,,,,Sunderland,,,,,,-600998400000,1950-12-16,1950/1951,6,"{'Hugh Mclaren':'90'',90''','Jack Lee':'90'',90'',90'',90'''}",,,,,,Derby County,,,,,,21,15952
+PRML,2,"{'Johnny Walker':'90'',90'''}",,,,,,Wolves,,,,,,-610934400000,1950-08-23,1950/1951,1,"{'Jackie Stamps':'90'''}",,,,,,Derby County,,,,,,2,31897
+PRML,2,"{'Jack Haigh':'8''','Billy Liddell':'80'''}",,,,,,Liverpool,,,,,,-598579200000,1951-01-13,1950/1951,1,"{'Jack Lee':'45'''}",,,,,,Derby County,,,,,,26,21849
+PRML,4,"{'Johnny Downie':'40''','Stan Pearson':'20''','Jack Rowley':'44''','John Aston':'84'''}",,,,,,Man. Utd,,,,,,-592358400000,1951-03-26,1950/1951,2,"{'Jackie Stamps':'26''','Reg Harrison':'36'''}",,,,,,Derby County,,,,,,36,25861
+PRML,1,"{'Jesse Pye':'90'''}",,,,,,Wolves,,,,,,-591321600000,1951-04-07,1950/1951,1,"{'Peter Farrell':'90'''}",,,,,,Everton,,,,,,38,32786
+PRML,0,,,,,,,Chelsea,,,,,,-595555200000,1951-02-17,1950/1951,3,"{'Oscar Hold':'90''','Jackie Grant':'90''','Peter Farrell':'90'''}",,,,,,Everton,,,,,,27,33005
+PRML,1,"{'Peter Murphy':'90'''}",,,,,,Tottenham Hotspur,,,,,,-600220800000,1950-12-25,1950/1951,1,"{'Jackie Stamps':'90'''}",,,,,,Derby County,,,,,,23,32301
+PRML,1,"{'Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,-599788800000,1950-12-30,1950/1951,1,"{'Jack Lee':'90'''}",,,,,,Derby County,,,,,,26,19585
+PRML,2,"{'Johnny Morris':'30''','Reg Harrison':'12'''}",,,,,,Derby County,,,,,,-601603200000,1950-12-09,1950/1951,1,"{'Eddie Wainwright':'85'''}",,,,,,Everton,,,,,,21,37757
+PRML,1,"{'Ernie Taylor':'90'''}",,,,,,Newcastle,,,,,,-600393600000,1950-12-23,1950/1951,3,"{'Wally Fielding':'90''','Oscar Hold':'90''','Harry Potts':'90'''}",,,,,,Everton,,,,,,23,35870
+PRML,1,"{'Cyril Williams':'90'''}",,,,,,West Bromwich Albion,,,,,,-607046400000,1950-10-07,1950/1951,1,"{'Jackie Stamps':'90'''}",,,,,,Derby County,,,,,,11,27098
+PRML,2,"{'Johnny Dixon':'90''','Herbie Smith':'90'''}",,,,,,Aston Villa,,,,,,-590112000000,1951-04-21,1950/1951,1,"{'Jimmy Mcintosh':'90'''}",,,,,,Everton,,,,,,40,45245
+PRML,1,"{'Peter Goring':'45'''}",,,,,,Arsenal,,,,,,-609120000000,1950-09-13,1950/1951,1,"{'Oscar Hold':'45'''}",,,,,,Everton,,,,,,8,47518
+PRML,2,"{'S. Mortensen':'90'',90'''}",,,,,,Blackpool,,,,,,-592531200000,1951-03-24,1950/1951,0,,,,,,,Everton,,,,,,35,61387
+PRML,2,"{'Johnny Spuhler':'37'',57'''}",,,,,,Middlesbrough,,,,,,-610329600000,1950-08-30,1950/1951,3,"{'Jimmy Mcintosh':'48''','Tommy Eglington':'27'',65'''}",,,,,,Everton,,,,,,4,43459
+PRML,1,"{'Willie Moir':'90'''}",,,,,,Bolton Wanderers,,,,,,-606441600000,1950-10-14,1950/1951,1,"{'Ted Buckle':'90'''}",,,,,,Everton,,,,,,13,53421
+PRML,5,"{'Peter Harris':'90''','Ike Clarke':'90'',90''','Len Phillips':'90'',90'''}",,,,,,Portsmouth,,,,,,-608256000000,1950-09-23,1950/1951,1,"{'Harry Catterick':'90'''}",,,,,,Everton,,,,,,10,40281
+PRML,2,"{'E. Baily':'25''','Leslie Medley':'64'''}",,,,,,Tottenham Hotspur,,,,,,-604022400000,1950-11-11,1950/1951,1,"{'Ted Buckle':'57'''}",,,,,,Everton,,,,,,17,47125
+PRML,0,,,,,,,Burnley,,,,,,-600220800000,1950-12-25,1950/1951,1,"{'Jimmy Mcintosh':'90'''}",,,,,,Everton,,,,,,23,40864
+PRML,0,,,,,,,Fulham,,,,,,-594604800000,1951-02-28,1950/1951,1,"{'Jimmy Mcintosh':'90'''}",,,,,,Everton,,,,,,31,19904
+PRML,4,"{'Stan Pearson':'75''','Jack Rowley':'40'',62''','John Aston':'86'''}",,,,,,Man. Utd,,,,,,-605232000000,1950-10-28,1950/1951,1,"{'Jimmy Mcintosh':'46'''}",,,,,,Everton,,,,,,15,51142
+PRML,2,"{'Jeff Taylor':'90'',90'''}",,,,,,Huddersfield Town,,,,,,-611280000000,1950-08-19,1950/1951,3,"{'Ted Buckle':'90'',90''','Jackie Grant':'1'''}",,,,,,Everton,,,,,,1,51768
+PRML,3,"{'Jack Balmer':'40'',45''','Albert Stubbins':'28'''}",,,,,,Liverpool,,,,,,-608860800000,1950-09-16,1950/1951,1,"{'Tommy Eglington':'90'''}",,,,,,Everton,,,,,,9,71750
+PRML,2,"{'Reg Lewis':'45''','Cliff Holton':'90'''}",,,,,,Arsenal,,,,,,-590716800000,1951-04-14,1950/1951,3,"{'Bob Thomas':'90'',90''','Len Quested':'90'''}",,,,,,Fulham,,,,,,40,34111
+PRML,2,"{'Bill Slater':'90''','Bill Perry':'90'''}",,,,,,Blackpool,,,,,,-609120000000,1950-09-13,1950/1951,2,"{'Bedford Jezzard':'90''','Bob Thomas':'90'''}",,,,,,Fulham,,,,,,8,39761
+PRML,1,"{'N. Lofthouse':'90'''}",,,,,,Bolton Wanderers,,,,,,-600220800000,1950-12-25,1950/1951,0,,,,,,,Fulham,,,,,,23,21712
+PRML,3,"{'Charlie Vaughan':'90''','Gordon Hurst':'90'',90'''}",,,,,,Charlton Athletic,,,,,,-610934400000,1950-08-23,1950/1951,1,"{'Arthur Stevens':'90'''}",,,,,,Fulham,,,,,,2,31573
+PRML,3,"{'Arthur Smith':'90''','Ray Barlow':'90''','Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,-610070400000,1950-09-02,1950/1951,0,,,,,,,Everton,,,,,,5,46502
+PRML,3,"{'Leslie Johnston':'90''','Frank Bowyer':'90''','Roy Beckett':'90'''}",,,,,,Stoke City,,,,,,-598579200000,1951-01-13,1950/1951,0,,,,,,,Everton,,,,,,27,31771
+PRML,1,"{'I. Broadis':'90'''}",,,,,,Sunderland,,,,,,-602812800000,1950-11-25,1950/1951,3,"{'Oscar Hold':'90''','Harry Potts':'90''','Tommy Eglington':'90'''}",,,,,,Everton,,,,,,19,46060
+PRML,2,"{'Ken Armstrong':'90'',90'''}",,,,,,Chelsea,,,,,,-589507200000,1951-04-28,1950/1951,1,"{'Bedford Jezzard':'90'''}",,,,,,Fulham,,,,,,41,24897
+PRML,5,"{'Jack Lee':'90'',90'',90''','Jackie Stamps':'90'',90'''}",,,,,,Derby County,,,,,,-597974400000,1951-01-20,1950/1951,3,"{'Arthur Stevens':'90''','Bobby Brennan':'90'',90'''}",,,,,,Fulham,,,,,,27,28865
+PRML,0,,,,,,,Charlton Athletic,,,,,,-593740800000,1951-03-10,1950/1951,0,,,,,,,Everton,,,,,,33,31066
+PRML,0,,,,,,,Middlesbrough,,,,,,-593136000000,1951-03-17,1950/1951,2,"{'Jimmy Bowie':'90''','Len Quested':'90'''}",,,,,,Fulham,,,,,,33,29466
+PRML,5,"{'Wally Fielding':'90''','Ted Buckle':'90''','Harry Catterick':'22'',29'',43'''}",,,,,,Everton,,,,,,-607046400000,1950-10-07,1950/1951,1,"{'Wally Hinshelwood':'90'''}",,,,,,Fulham,,,,,,12,29442
+PRML,1,"{'Billy Goffin':'90'''}",,,,,,Aston Villa,,,,,,-609465600000,1950-09-09,1950/1951,2,"{'Bedford Jezzard':'90''','Bob Thomas':'90'''}",,,,,,Fulham,,,,,,7,35817
+PRML,1,"{'Billy O''neill':'90'''}",,,,,,Burnley,,,,,,-602208000000,1950-12-02,1950/1951,4,"{'Arthur Stevens':'90''','Bedford Jezzard':'90''','Bob Thomas':'90'''}",,,,,,Fulham,,,,,,19,25250
+PRML,1,"{'Peter Murphy':'90'''}",,,,,,Tottenham Hotspur,,,,,,-592617600000,1951-03-23,1950/1951,0,,,,,,,Fulham,,,,,,34,47391
+PRML,4,"{'Marcel Gaillard':'90'',90''','Ike Clarke':'90'',90'''}",,,,,,Portsmouth,,,,,,-589161600000,1951-05-02,1950/1951,1,"{'Arthur Stevens':'90'''}",,,,,,Fulham,,,,,,41,21279
+PRML,0,,,,,,,Stoke City,,,,,,-594345600000,1951-03-03,1950/1951,2,"{'Arthur Stevens':'90''','Jimmy Bowie':'90'''}",,,,,,Fulham,,,,,,32,26063
+PRML,0,,,,,,,Sheffield Wednesday,,,,,,-592358400000,1951-03-26,1950/1951,0,,,,,,,Everton,,,,,,36,33331
+PRML,4,"{'Willie Moir':'90''','N. Lofthouse':'90''','Harry Webster':'90'''}",,,,,,Bolton Wanderers,,,,,,-605232000000,1950-10-28,1950/1951,0,,,,,,,Huddersfield Town,,,,,,14,30989
+PRML,2,"{'Stan Pearson':'52'',62'''}",,,,,,Man. Utd,,,,,,-600998400000,1950-12-16,1950/1951,2,"{'Arthur Stevens':'10'''}",,,,,,Fulham,,,,,,22,19649
+PRML,1,"{'Harold Hassall':'90'''}",,,,,,Huddersfield Town,,,,,,-605836800000,1950-10-21,1950/1951,1,"{'Arthur Stevens':'90'''}",,,,,,Fulham,,,,,,14,31622
+PRML,1,"{'Billy Liddell':'4'''}",,,,,,Liverpool,,,,,,-608256000000,1950-09-23,1950/1951,2,"{'Bedford Jezzard':'90''','Bob Thomas':'90'''}",,,,,,Fulham,,,,,,10,42954
+PRML,2,"{'Trevor Ford':'90''','George Edwards':'90'''}",,,,,,Aston Villa,,,,,,-606441600000,1950-10-14,1950/1951,4,"{'Harold Hassall':'90'',90''','Jeff Taylor':'90'',90'''}",,,,,,Huddersfield Town,,,,,,13,25903
+PRML,1,"{'Tommy Walker':'90'''}",,,,,,Newcastle,,,,,,-591926400000,1951-03-31,1950/1951,1,"{'Johnny Campbell':'90'''}",,,,,,Fulham,,,,,,37,28107
+PRML,1,"{'Roy Stephenson':'90'''}",,,,,,Burnley,,,,,,-609465600000,1950-09-09,1950/1951,3,"{'Albert Nightingale':'90'''}",,,,,,Huddersfield Town,,,,,,7,30664
+PRML,2,"{'Hugh Mcjarrow':'90'',90'''}",,,,,,Sheffield Wednesday,,,,,,-603417600000,1950-11-18,1950/1951,4,"{'Archibald Macaulay':'90''','Bob Thomas':'90'',90''','Jack Mcdonald':'90'''}",,,,,,Fulham,,,,,,18,26357
+PRML,1,"{'Fred Richardson':'90'''}",,,,,,West Bromwich Albion,,,,,,-604627200000,1950-11-04,1950/1951,0,,,,,,,Fulham,,,,,,16,21133
+PRML,1,"{'Dickie Davis':'90'''}",,,,,,Sunderland,,,,,,-599788800000,1950-12-30,1950/1951,1,"{'Bobby Brennan':'90'''}",,,,,,Fulham,,,,,,25,33615
+PRML,2,"{'Phil Taylor':'88''','Billy Liddell':'5'''}",,,,,,Liverpool,,,,,,-604022400000,1950-11-11,1950/1951,2,"{'Jimmy Glazzard':'45''','John Battye':'90'''}",,,,,,Huddersfield Town,,,,,,17,25229
+PRML,1,"{'Roy Swinbourne':'90'''}",,,,,,Wolves,,,,,,-610675200000,1950-08-26,1950/1951,2,"{'Arthur Stevens':'90''','Len Quested':'90'''}",,,,,,Fulham,,,,,,3,42013
+PRML,3,"{'Cliff Birkett':'56''','John Aston':'13'',75'''}",,,,,,Man. Utd,,,,,,-601603200000,1950-12-09,1950/1951,2,"{'Jeff Taylor':'42'''}",,,,,,Huddersfield Town,,,,,,21,26845
+PRML,1,"{'Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,-610675200000,1950-08-26,1950/1951,2,"{'Harold Hassall':'90''','Jeff Taylor':'90'''}",,,,,,Huddersfield Town,,,,,,3,28087
+PRML,2,"{'Reg Lewis':'45'',90'''}",,,,,,Arsenal,,,,,,-597974400000,1951-01-20,1950/1951,2,"{'Harold Hassall':'45''','George Hepplewhite':'45'''}",,,,,,Huddersfield Town,,,,,,28,37175
+PRML,1,"{'S. Mortensen':'90'''}",,,,,,Blackpool,,,,,,-591321600000,1951-04-07,1950/1951,2,"{'Harold Hassall':'90''','Jeff Taylor':'90'''}",,,,,,Huddersfield Town,,,,,,38,52479
+PRML,1,"{'Leslie Johnston':'90'''}",,,,,,Stoke City,,,,,,-610934400000,1950-08-23,1950/1951,3,"{'Harold Hassall':'90''','Conway Smith':'90''','Eddie Boot':'90'''}",,,,,,Huddersfield Town,,,,,,2,16075
+PRML,4,"{'B. Bingham':'90''','Tommy Wright':'90'',90''','Len Shackleton':'90'''}",,,,,,Sunderland,,,,,,-594000000000,1951-03-07,1950/1951,3,"{'Harold Hassall':'90''','Jimmy Glazzard':'90'''}",,,,,,Huddersfield Town,,,,,,31,11537
+PRML,1,"{'Gordon Hurst':'90'''}",,,,,,Charlton Athletic,,,,,,-590112000000,1951-04-21,1950/1951,1,"{'Jeff Taylor':'90'''}",,,,,,Huddersfield Town,,,,,,40,24109
+PRML,1,,,,,,,Chelsea,,,,,,-590371200000,1951-04-18,1950/1951,2,"{'Harold Hassall':'90''','Jimmy Glazzard':'90'''}",,,,,,Huddersfield Town,,,,,,38,23995
+PRML,2,"{'Roy Swinbourne':'90''','Johnny Walker':'90'''}",,,,,,Wolves,,,,,,-600220800000,1950-12-25,1950/1951,1,"{'Don Hunter':'90'''}",,,,,,Huddersfield Town,,,,,,23,24952
+PRML,2,"{'Jimmy Mcintosh':'90'',90'''}",,,,,,Everton,,,,,,-600998400000,1950-12-16,1950/1951,1,"{'Jimmy Glazzard':'90'''}",,,,,,Huddersfield Town,,,,,,22,12253
+PRML,2,"{'Bedford Jezzard':'90''','Bob Thomas':'90'''}",,,,,,Fulham,,,,,,-593740800000,1951-03-10,1950/1951,1,"{'Albert Nightingale':'90'''}",,,,,,Huddersfield Town,,,,,,32,19651
+PRML,0,,,,,,,Derby County,,,,,,-592531200000,1951-03-24,1950/1951,2,"{'Jeff Taylor':'90''','Albert Nightingale':'90'''}",,,,,,Huddersfield Town,,,,,,34,25573
+PRML,3,"{'W. Mannion':'90''','Lindy Delapenha':'90'''}",,,,,,Middlesbrough,,,,,,-595555200000,1951-02-17,1950/1951,2,"{'Harold Hassall':'90''','Colin Senior':'90'''}",,,,,,Huddersfield Town,,,,,,29,23533
+PRML,0,,,,,,,Newcastle,,,,,,-609120000000,1950-09-13,1950/1951,0,,,,,,,Huddersfield Town,,,,,,8,30343
+PRML,0,,,,,,,Fulham,,,,,,-596764800000,1951-02-03,1950/1951,2,"{'Bill Jones':'1''','Billy Liddell':'71'''}",,,,,,Liverpool,,,,,,29,33330
+PRML,4,"{'Redfern Froggatt':'90''','Jack Marriott':'90''','Hugh Mcjarrow':'90'',90'''}",,,,,,Sheffield Wednesday,,,,,,-608256000000,1950-09-23,1950/1951,3,"{'Harold Hassall':'90''','Vic Metcalfe':'90''','Albert Nightingale':'90'''}",,,,,,Huddersfield Town,,,,,,10,28645
+PRML,2,"{'B. Nicholson':'90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,-602812800000,1950-11-25,1950/1951,3,"{'Harold Hassall':'90''','Jimmy Glazzard':'90''','Vic Metcalfe':'90'''}",,,,,,Huddersfield Town,,,,,,18,39519
+PRML,2,"{'Ray Barlow':'90'',90'''}",,,,,,West Bromwich Albion,,,,,,-592272000000,1951-03-27,1950/1951,1,"{'Jimmy Glazzard':'90'''}",,,,,,Huddersfield Town,,,,,,36,32401
+PRML,0,,,,,,,Chelsea,,,,,,-602208000000,1950-12-02,1950/1951,1,"{'Billy Liddell':'71'''}",,,,,,Liverpool,,,,,,19,28717
+PRML,3,"{'Jimmy Logie':'45''','Don Roper':'90''','Doug Lishman':'90'''}",,,,,,Arsenal,,,,,,-603417600000,1950-11-18,1950/1951,1,,,,,,,Liverpool,,,,,,18,44193
+PRML,4,"{'Harold Hassall':'70''','Jimmy Glazzard':'45''','Vic Metcalfe':'80'''}",,,,,,Huddersfield Town,,,,,,-591926400000,1951-03-31,1950/1951,1,"{'Jack Haigh':'87'''}",,,,,,Liverpool,,,,,,37,27915
+PRML,0,,,,,,,Aston Villa,,,,,,-609120000000,1950-09-13,1950/1951,0,,,,,,,Man. Utd,,,,,,8,34824
+PRML,1,"{'Jack Rowley':'30'''}",,,,,,Man. Utd,,,,,,-610934400000,1950-08-23,1950/1951,2,"{'Billy Liddell':'12'''}",,,,,,Liverpool,,,,,,2,30211
+PRML,0,,,,,,,Aston Villa,,,,,,-589766400000,1951-04-25,1950/1951,0,,,,,,,Liverpool,,,,,,41,23061
+PRML,1,"{'Jackie Sewell':'90'''}",,,,,,Sheffield Wednesday,,,,,,-593136000000,1951-03-17,1950/1951,2,"{'Billy Liddell':'45'''}",,,,,,Liverpool,,,,,,33,31413
+PRML,1,"{'Peter Harris':'45'''}",,,,,,Portsmouth,,,,,,-596160000000,1951-02-10,1950/1951,2,"{'Bill Jones':'65''','Jack Balmer':'50'''}",,,,,,Liverpool,,,,,,28,36958
+PRML,0,,,,,,,Blackpool,,,,,,-600134400000,1950-12-26,1950/1951,1,"{'Jack Balmer':'26'''}",,,,,,Liverpool,,,,,,25,54121
+PRML,0,,,,,,,Sunderland,,,,,,-610675200000,1950-08-26,1950/1951,4,"{'Albert Stubbins':'32'',90''','Billy Liddell':'14'',15'''}",,,,,,Liverpool,,,,,,3,52080
+PRML,0,,,,,,,Burnley,,,,,,-590716800000,1951-04-14,1950/1951,1,"{'Bill Jones':'43'''}",,,,,,Liverpool,,,,,,40,24118
+PRML,0,,,,,,,Everton,,,,,,-593136000000,1951-03-17,1950/1951,3,"{'Stan Pearson':'37''','Johnny Downie':'11''','John Aston':'1'''}",,,,,,Man. Utd,,,,,,34,31108
+PRML,0,,,,,,,Liverpool,,,,,,-610329600000,1950-08-30,1950/1951,1,"{'Johnny Downie':'23'''}",,,,,,Man. Utd,,,,,,4,36654
+PRML,1,"{'Andy Mccall':'90'''}",,,,,,West Bromwich Albion,,,,,,-594345600000,1951-03-03,1950/1951,1,"{'Bob Paisley':'90'''}",,,,,,Liverpool,,,,,,32,36654
+PRML,0,,,,,,,Huddersfield Town,,,,,,-589507200000,1951-04-28,1950/1951,6,"{'Johnny Downie':'50''','John Aston':'40'',65''','Harry Mcshane':'6'',67'''}",,,,,,Man. Utd,,,,,,41,28310
+PRML,0,,,,,,,Charlton Athletic,,,,,,-592617600000,1951-03-23,1950/1951,1,"{'Jack Haigh':'15'''}",,,,,,Liverpool,,,,,,35,31650
+PRML,0,,,,,,,Derby County,,,,,,-609465600000,1950-09-09,1950/1951,1,"{'Cyril Done':'85'''}",,,,,,Liverpool,,,,,,7,50079
+PRML,3,"{'Willie Moir':'90''','N. Lofthouse':'90''','Harry Webster':'90'''}",,,,,,Bolton Wanderers,,,,,,-607651200000,1950-09-30,1950/1951,3,"{'Jimmy Payne':'12''','Jack Balmer':'45'',90'''}",,,,,,Liverpool,,,,,,10,44534
+PRML,2,"{'Jimmy Mcintosh':'45'',90'''}",,,,,,Everton,,,,,,-597974400000,1951-01-20,1950/1951,0,,,,,,,Liverpool,,,,,,28,48688
+PRML,2,"{'George Hannah':'64''','Tommy Walker':'86'''}",,,,,,Newcastle,,,,,,-602208000000,1950-12-02,1950/1951,1,"{'Brian Birch':'39'''}",,,,,,Man. Utd,,,,,,20,36300
+PRML,1,"{'Cliff Holton':'39'''}",,,,,,Arsenal,,,,,,-594345600000,1951-03-03,1950/1951,3,"{'Johnny Downie':'14''','John Aston':'16'',32'''}",,,,,,Man. Utd,,,,,,31,48025
+PRML,1,"{'Bill Holden':'35'''}",,,,,,Burnley,,,,,,-604627200000,1950-11-04,1950/1951,1,"{'Harry Mcshane':'60'''}",,,,,,Man. Utd,,,,,,15,41244
+PRML,0,,,,,,,Charlton Athletic,,,,,,-608860800000,1950-09-16,1950/1951,3,"{'Stan Pearson':'44''','Jimmy Delaney':'77''','Jack Rowley':'10'''}",,,,,,Man. Utd,,,,,,8,37976
+PRML,1,"{'Stan Willemse':'13'''}",,,,,,Chelsea,,,,,,-591926400000,1951-03-31,1950/1951,4,"{'Stan Pearson':'28'',33'',75''','Harry Mcshane':'38'''}",,,,,,Man. Utd,,,,,,35,25779
+PRML,0,,,,,,,Derby County,,,,,,-592617600000,1951-03-23,1950/1951,2,"{'Johnny Downie':'40''','John Aston':'68'''}",,,,,,Man. Utd,,,,,,34,43802
+PRML,1,"{'Leslie Medley':'90'''}",,,,,,Tottenham Hotspur,,,,,,-609724800000,1950-09-06,1950/1951,2,"{'Jack Balmer':'2''','Albert Stubbins':'6'''}",,,,,,Liverpool,,,,,,6,39015
+PRML,4,"{'J. Robledo':'45'',90'',90''','Ernie Taylor':'30'''}",,,,,,Newcastle,,,,,,-604627200000,1950-11-04,1950/1951,2,"{'Jimmy Payne':'65'''}",,,,,,Liverpool,,,,,,15,48810
+PRML,3,"{'Billy Morris':'90''','J. Mcilroy':'90''','Jackie Chew':'90'''}",,,,,,Burnley,,,,,,-599788800000,1950-12-30,1950/1951,3,"{'W. Mannion':'90''','Alex McCrae':'90''','Lindy Delapenha':'90'''}",,,,,,Middlesbrough,,,,,,25,34349
+PRML,0,,,,,,,Middlesbrough,,,,,,-596764800000,1951-02-03,1950/1951,1,"{'Stan Pearson':'37'''}",,,,,,Man. Utd,,,,,,28,46454
+PRML,4,"{'D. Wilshaw':'90''','Roy Swinbourne':'30''','Johnny Walker':'45'',45'''}",,,,,,Wolves,,,,,,-600998400000,1950-12-16,1950/1951,1,,,,,,,Liverpool,,,,,,21,30959
+PRML,0,,,,,,,Stoke City,,,,,,-603417600000,1950-11-18,1950/1951,0,,,,,,,Man. Utd,,,,,,18,31880
+PRML,5,"{'Dickie Davis':'61''','B. Bingham':'3''','I. Broadis':'29'',30'',40'''}",,,,,,Sunderland,,,,,,-600134400000,1950-12-26,1950/1951,3,"{'Tommy Bogan':'44'',75''','John Aston':'2'''}",,,,,,Man. Utd,,,,,,25,37024
+PRML,1,"{'Billy Liddell':'87'''}",,,,,,Liverpool,,,,,,-593740800000,1951-03-10,1950/1951,1,"{'Peter Mckennan':'45'''}",,,,,,Middlesbrough,,,,,,33,29247
+PRML,2,"{'Stan Pearson':'13'',58'''}",,,,,,Man. Utd,,,,,,-608256000000,1950-09-23,1950/1951,1,"{'Lindy Delapenha':'41'''}",,,,,,Middlesbrough,,,,,,10,48051
+PRML,0,,,,,,,West Bromwich Albion,,,,,,-590716800000,1951-04-14,1950/1951,3,"{'Johnny Downie':'85''','Stan Pearson':'84''','Jack Rowley':'27'''}",,,,,,Man. Utd,,,,,,39,26523
+PRML,3,"{'N. Lofthouse':'38'',62''','Harry Webster':'2'''}",,,,,,Bolton Wanderers,,,,,,-600393600000,1950-12-23,1950/1951,2,"{'Stan Pearson':'11''','John Aston':'49'''}",,,,,,Man. Utd,,,,,,23,37235
+PRML,0,,,,,,,Blackpool,,,,,,-610070400000,1950-09-02,1950/1951,1,"{'Tommy Bogan':'8'''}",,,,,,Man. Utd,,,,,,5,55090
+PRML,0,,,,,,,Middlesbrough,,,,,,-605836800000,1950-10-21,1950/1951,0,,,,,,,Liverpool,,,,,,13,47426
+PRML,0,,,,,,,Stoke City,,,,,,-607046400000,1950-10-07,1950/1951,0,,,,,,,Liverpool,,,,,,12,40239
+PRML,1,"{'Johnny Dixon':'90'''}",,,,,,Aston Villa,,,,,,-592531200000,1951-03-24,1950/1951,2,"{'Billy Linacre':'90''','Lindy Delapenha':'90'''}",,,,,,Middlesbrough,,,,,,33,28580
+PRML,1,"{'Willie Moir':'90'''}",,,,,,Bolton Wanderers,,,,,,-591321600000,1951-04-07,1950/1951,1,"{'Harry Bell':'90'''}",,,,,,Middlesbrough,,,,,,37,24423
+PRML,0,,,,,,,Fulham,,,,,,-611280000000,1950-08-19,1950/1951,1,"{'Stan Pearson':'63'''}",,,,,,Man. Utd,,,,,,1,45857
+PRML,1,"{'Peter Murphy':'90'''}",,,,,,Tottenham Hotspur,,,,,,-590112000000,1951-04-21,1950/1951,1,"{'Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,40,36689
+PRML,0,,,,,,,Chelsea,,,,,,-610675200000,1950-08-26,1950/1951,3,"{'Geoff Walker':'90''','W. Mannion':'90''','Alex McCrae':'90'''}",,,,,,Middlesbrough,,,,,,3,41573
+PRML,0,,,,,,,Portsmouth,,,,,,-605836800000,1950-10-21,1950/1951,0,,,,,,,Man. Utd,,,,,,14,43595
+PRML,1,"{'Bedford Jezzard':'90'''}",,,,,,Fulham,,,,,,-605232000000,1950-10-28,1950/1951,1,"{'W. Mannion':'90'''}",,,,,,Middlesbrough,,,,,,15,34117
+PRML,1,"{'E. Baily':'7'''}",,,,,,Tottenham Hotspur,,,,,,-598579200000,1951-01-13,1950/1951,2,"{'Jack Rowley':'50''','Brian Birch':'15'''}",,,,,,Man. Utd,,,,,,26,45104
+PRML,1,"{'Hugh Mcjarrow':'89'''}",,,,,,Sheffield Wednesday,,,,,,-607046400000,1950-10-07,1950/1951,3,"{'Johnny Downie':'7''','Jack Rowley':'37''','Harry Mcshane':'31'''}",,,,,,Man. Utd,,,,,,12,42444
+PRML,1,"{'Jack Lee':'90'''}",,,,,,Derby County,,,,,,-604022400000,1950-11-11,1950/1951,1,"{'Alex McCrae':'90'''}",,,,,,Middlesbrough,,,,,,16,36943
+PRML,1,"{'N. Lofthouse':'90'''}",,,,,,Bolton Wanderers,,,,,,-590371200000,1951-04-18,1950/1951,0,,,,,,,Newcastle,,,,,,39,39099
+PRML,1,"{'Doug Lishman':'45'''}",,,,,,Arsenal,,,,,,-609465600000,1950-09-09,1950/1951,2,"{'Lindy Delapenha':'90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,7,46119
+PRML,1,"{'D. Wilshaw':'9'''}",,,,,,Wolves,,,,,,-595555200000,1951-02-17,1950/1951,2,"{'Jack Rowley':'46''','Brian Birch':'54'''}",,,,,,Man. Utd,,,,,,29,43941
+PRML,3,"{'S. Mortensen':'90''','J. Mudie':'90'',90'''}",,,,,,Blackpool,,,,,,-602812800000,1950-11-25,1950/1951,4,"{'Alex McCrae':'90'',90'',90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,19,40487
+PRML,1,"{'Harry Catterick':'90'''}",,,,,,Everton,,,,,,-610675200000,1950-08-26,1950/1951,1,"{'Ernie Taylor':'90'''}",,,,,,Newcastle,,,,,,3,49096
+PRML,0,,,,,,,Stoke City,,,,,,-592617600000,1951-03-23,1950/1951,1,"{'Peter Mckennan':'90'''}",,,,,,Middlesbrough,,,,,,35,36200
+PRML,1,"{'Jimmy Scoular':'90'''}",,,,,,Portsmouth,,,,,,-600998400000,1950-12-16,1950/1951,3,"{'Lindy Delapenha':'90'''}",,,,,,Middlesbrough,,,,,,21,27163
+PRML,1,"{'Dennis Woodhead':'90'''}",,,,,,Sheffield Wednesday,,,,,,-597974400000,1951-01-20,1950/1951,2,"{'Ronnie Dicks':'90''','Walter Auld':'90'''}",,,,,,Middlesbrough,,,,,,27,34031
+PRML,1,"{'Dickie Davis':'90'''}",,,,,,Sunderland,,,,,,-606441600000,1950-10-14,1950/1951,1,"{'Alex McCrae':'90'''}",,,,,,Middlesbrough,,,,,,12,52764
+PRML,1,"{'Bob Stokoe':'90'''}",,,,,,Newcastle,,,,,,-600220800000,1950-12-25,1950/1951,2,"{'Geoff Walker':'90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,24,41318
+PRML,0,,,,,,,Middlesbrough,,,,,,-588902400000,1951-05-05,1950/1951,1,"{'Tommy Walker':'90'''}",,,,,,Newcastle,,,,,,42,35935
+PRML,1,"{'Davy Walsh':'90'''}",,,,,,West Bromwich Albion,,,,,,-609724800000,1950-09-06,1950/1951,2,"{'Alex McCrae':'90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,6,28829
+PRML,2,"{'Roy Swinbourne':'90'',90'''}",,,,,,Wolves,,,,,,-590976000000,1951-04-11,1950/1951,1,"{'Alex McCrae':'90'''}",,,,,,Middlesbrough,,,,,,36,29767
+PRML,1,"{'Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,-591321600000,1951-04-07,1950/1951,0,,,,,,,Newcastle,,,,,,38,41241
+PRML,3,"{'Charlie Vaughan':'90''','Dudley Forbes':'90''','John Evans':'90'''}",,,,,,Charlton Athletic,,,,,,-601603200000,1950-12-09,1950/1951,7,"{'Andy Donaldson':'90''','Geoff Walker':'90''','W. Mannion':'90'',90''','Alex McCrae':'90'',90'''}",,,,,,Middlesbrough,,,,,,20,34050
+PRML,3,"{'Tommy Thompson':'90''','Johnny Dixon':'90'',90'''}",,,,,,Aston Villa,,,,,,-602812800000,1950-11-25,1950/1951,3,"{'Terry Ryder':'90'',90''','Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,19,30399
+PRML,0,,,,,,,Everton,,,,,,-610934400000,1950-08-23,1950/1951,4,"{'Alex McCrae':'90'',90'',90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,2,41478
+PRML,0,,,,,,,Huddersfield Town,,,,,,-607651200000,1950-09-30,1950/1951,8,"{'Geoff Walker':'90''','W. Mannion':'90'',90'',90''','Alex McCrae':'90'',90'',90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,11,32401
+PRML,1,"{'Billy Morris':'90'''}",,,,,,Burnley,,,,,,-597974400000,1951-01-20,1950/1951,2,"{'Jackie Milburn':'90'',90'''}",,,,,,Newcastle,,,,,,27,40658
+PRML,1,"{'Ken Armstrong':'90'''}",,,,,,Chelsea,,,,,,-609465600000,1950-09-09,1950/1951,3,"{'Tommy Walker':'90'',90''','Jackie Milburn':'90'''}",,,,,,Newcastle,,,,,,7,56903
+PRML,0,,,,,,,Huddersfield Town,,,,,,-609724800000,1950-09-06,1950/1951,6,"{'J. Robledo':'90''','Ernie Taylor':'90''','Bobby Mitchell':'90''','Jackie Milburn':'90'',90'',90'''}",,,,,,Newcastle,,,,,,6,34031
+PRML,1,"{'Cyril Done':'90'''}",,,,,,Liverpool,,,,,,-592531200000,1951-03-24,1950/1951,1,"{'Bobby Mitchell':'90'''}",,,,,,Newcastle,,,,,,36,45535
+PRML,2,"{'Jackie Stamps':'90''','Charlie Revell':'90'''}",,,,,,Derby County,,,,,,-590112000000,1951-04-21,1950/1951,2,"{'Albert Mundy':'90''','Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,40,29016
+PRML,2,"{'Stan Pearson':'35''','Jack Rowley':'7'''}",,,,,,Man. Utd,,,,,,-590112000000,1951-04-21,1950/1951,0,,,,,,,Newcastle,,,,,,40,45209
+PRML,0,,,,,,,Sheffield Wednesday,,,,,,-595555200000,1951-02-17,1950/1951,2,"{'J. Robledo':'90''','Ernie Taylor':'90'''}",,,,,,Newcastle,,,,,,29,47075
+PRML,1,"{'Tommy Thompson':'90'''}",,,,,,Aston Villa,,,,,,-591580800000,1951-04-04,1950/1951,0,,,,,,,Newcastle,,,,,,37,38543
+PRML,1,"{'Jimmy Logie':'45'''}",,,,,,Arsenal,,,,,,-608256000000,1950-09-23,1950/1951,2,"{'Ernie Taylor':'45''','Jackie Milburn':'45'''}",,,,,,Newcastle,,,,,,10,66926
+PRML,1,"{'William Elliott':'90'''}",,,,,,West Bromwich Albion,,,,,,-610934400000,1950-08-23,1950/1951,1,"{'Frank Brennan':'90'''}",,,,,,Newcastle,,,,,,2,48720
+PRML,0,,,,,,,Blackpool,,,,,,-606441600000,1950-10-14,1950/1951,2,"{'Ike Clarke':'90''','Len Phillips':'90'''}",,,,,,Portsmouth,,,,,,12,47829
+PRML,2,"{'S. Mortensen':'90'''}",,,,,,Blackpool,,,,,,-605232000000,1950-10-28,1950/1951,4,"{'J. Robledo':'90'',90'',90''','Jackie Milburn':'90'''}",,,,,,Newcastle,,,,,,15,61008
+PRML,2,"{'Gordon Hurst':'90''','Bill Kiernan':'90'''}",,,,,,Charlton Athletic,,,,,,-602812800000,1950-11-25,1950/1951,3,"{'Tommy Walker':'90''','Jackie Milburn':'90'',90'''}",,,,,,Newcastle,,,,,,18,48267
+PRML,1,"{'Jack Lee':'90'''}",,,,,,Derby County,,,,,,-606441600000,1950-10-14,1950/1951,3,"{'Tommy Walker':'90''','Bobby Mitchell':'90''','Jackie Milburn':'90'''}",,,,,,Newcastle,,,,,,12,54793
+PRML,2,"{'Arthur Stevens':'90''','Bob Thomas':'90'''}",,,,,,Fulham,,,,,,-604022400000,1950-11-11,1950/1951,1,,,,,,,Newcastle,,,,,,17,54234
+PRML,1,"{'Billy Morris':'90'''}",,,,,,Burnley,,,,,,-588902400000,1951-05-05,1950/1951,2,"{'Albert Mundy':'90'''}",,,,,,Portsmouth,,,,,,42,22510
+PRML,3,"{'John Evans':'90'',90'',90'''}",,,,,,Charlton Athletic,,,,,,-604022400000,1950-11-11,1950/1951,3,"{'Duggie Reid':'90''','J. Dickinson':'90''','Jimmy Scoular':'90'''}",,,,,,Portsmouth,,,,,,16,32698
+PRML,0,,,,,,,Fulham,,,,,,-607651200000,1950-09-30,1950/1951,1,"{'Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,10,32187
+PRML,0,,,,,,,Huddersfield Town,,,,,,-600393600000,1950-12-23,1950/1951,1,"{'Len Phillips':'90'''}",,,,,,Portsmouth,,,,,,22,22011
+PRML,3,"{'Oscar Hold':'90''','Harry Potts':'90''','Jimmy Mcintosh':'90'''}",,,,,,Everton,,,,,,-596764800000,1951-02-03,1950/1951,6,"{'Harry Ferrier':'90''','Peter Harris':'90''','Duggie Reid':'90'',90''','Len Phillips':'90'',90'''}",,,,,,Portsmouth,,,,,,29,26277
+PRML,1,"{'Roy Brown':'90'''}",,,,,,Stoke City,,,,,,-600998400000,1950-12-16,1950/1951,3,"{'George Hannah':'90''','J. Robledo':'90''','Bobby Mitchell':'90'''}",,,,,,Newcastle,,,,,,22,29505
+PRML,2,"{'Trevor Ford':'90''','Tommy Wright':'90'''}",,,,,,Sunderland,,,,,,-592617600000,1951-03-23,1950/1951,2,"{'Joe Harvey':'90''','Jackie Milburn':'90'''}",,,,,,Newcastle,,,,,,34,62173
+PRML,0,,,,,,,Portsmouth,,,,,,-590976000000,1951-04-11,1950/1951,0,,,,,,,Newcastle,,,,,,38,32222
+PRML,3,"{'Jimmy Payne':'31'',57''','Jack Balmer':'83'''}",,,,,,Liverpool,,,,,,-601603200000,1950-12-09,1950/1951,1,"{'Ike Clarke':'90'''}",,,,,,Portsmouth,,,,,,20,29480
+PRML,3,"{'R. Bentley':'90''','Jimmy Bowie':'90''','B. Smith':'90'''}",,,,,,Chelsea,,,,,,-600220800000,1950-12-25,1950/1951,1,"{'Len Phillips':'90'''}",,,,,,Portsmouth,,,,,,22,23645
+PRML,1,"{'Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,-601603200000,1950-12-09,1950/1951,1,"{'Tommy Walker':'90'''}",,,,,,Newcastle,,,,,,20,48492
+PRML,0,,,,,,,Man. Utd,,,,,,-593740800000,1951-03-10,1950/1951,0,,,,,,,Portsmouth,,,,,,32,33148
+PRML,1,"{'Dennis Uphill':'90'''}",,,,,,Tottenham Hotspur,,,,,,-592531200000,1951-03-24,1950/1951,1,"{'Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,34,49716
+PRML,1,"{'Ben Marden':'90'''}",,,,,,Arsenal,,,,,,-592358400000,1951-03-26,1950/1951,1,"{'Albert Mundy':'45'''}",,,,,,Portsmouth,,,,,,35,39189
+PRML,2,"{'Fred Richardson':'90''','Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,-598579200000,1951-01-13,1950/1951,2,"{'Len Phillips':'90'''}",,,,,,Portsmouth,,,,,,25,23559
+PRML,2,"{'Colin Gibson':'90''','Miller Craddock':'90'''}",,,,,,Aston Villa,,,,,,-604022400000,1950-11-11,1950/1951,3,"{'Gerry Henry':'90'',90''','Walter Rickett':'90'''}",,,,,,Sheffield Wednesday,,,,,,17,37080
+PRML,2,"{'Harold Hassall':'90''','Jeff Taylor':'90'''}",,,,,,Huddersfield Town,,,,,,-596764800000,1951-02-03,1950/1951,3,"{'Redfern Froggatt':'90'',90'''}",,,,,,Sheffield Wednesday,,,,,,28,40902
+PRML,4,"{'Johnny Downie':'36''','Stan Pearson':'3''','Jack Rowley':'55''','Harry Mcshane':'70'''}",,,,,,Man. Utd,,,,,,-594777600000,1951-02-26,1950/1951,0,,,,,,,Sheffield Wednesday,,,,,,30,25767
+PRML,1,"{'Les Bennett':'90'''}",,,,,,Tottenham Hotspur,,,,,,-601603200000,1950-12-09,1950/1951,1,"{'Hugh Mcjarrow':'90'''}",,,,,,Sheffield Wednesday,,,,,,20,44367
+PRML,1,"{'S. Mortensen':'90'''}",,,,,,Blackpool,,,,,,-590112000000,1951-04-21,1950/1951,3,"{'Dennis Woodhead':'90''','Jackie Sewell':'90''','Doug Witcomb':'90'''}",,,,,,Sheffield Wednesday,,,,,,40,53420
+PRML,2,"{'Peter Goring':'45'',45'''}",,,,,,Arsenal,,,,,,-599788800000,1950-12-30,1950/1951,0,,,,,,,Sheffield Wednesday,,,,,,25,39643
+PRML,1,"{'N. Lofthouse':'90'''}",,,,,,Bolton Wanderers,,,,,,-594950400000,1951-02-24,1950/1951,2,"{'Duggie Reid':'90''','J. Dickinson':'90'''}",,,,,,Portsmouth,,,,,,29,27222
+PRML,1,"{'W. Mannion':'90'''}",,,,,,Middlesbrough,,,,,,-611280000000,1950-08-19,1950/1951,1,"{'Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,1,43773
+PRML,1,"{'Hugh Mcjarrow':'90'''}",,,,,,Sheffield Wednesday,,,,,,-610329600000,1950-08-30,1950/1951,4,"{'Jack Froggatt':'90'',90''','Len Phillips':'90'',90'''}",,,,,,Portsmouth,,,,,,4,27657
+PRML,0,,,,,,,Everton,,,,,,-588902400000,1951-05-05,1950/1951,6,"{'Alan Finney':'90''','Redfern Froggatt':'90''','Dennis Woodhead':'90'',90''','Jackie Sewell':'90'',90'''}",,,,,,Sheffield Wednesday,,,,,,42,41303
+PRML,1,"{'Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,-608860800000,1950-09-16,1950/1951,5,"{'Harry Ferrier':'90''','Ike Clarke':'90''','Duggie Reid':'90'',90'',90'''}",,,,,,Portsmouth,,,,,,8,33957
+PRML,0,,,,,,,Newcastle,,,,,,-607651200000,1950-09-30,1950/1951,0,,,,,,,Sheffield Wednesday,,,,,,11,40293
+PRML,1,"{'Jimmy Payne':'35'''}",,,,,,Liverpool,,,,,,-605232000000,1950-10-28,1950/1951,4,"{'Redfern Froggatt':'45'',90'',90'''}",,,,,,Sheffield Wednesday,,,,,,15,43711
+PRML,4,"{'Johnny Walker':'90'',90''','Johnny Hancocks':'90'',90'''}",,,,,,Wolves,,,,,,-605232000000,1950-10-28,1950/1951,1,"{'Ike Clarke':'90'''}",,,,,,Portsmouth,,,,,,14,40884
+PRML,0,,,,,,,Sunderland,,,,,,-592531200000,1951-03-24,1950/1951,3,"{'Redfern Froggatt':'90''','Dennis Woodhead':'90''','Walter Rickett':'90'''}",,,,,,Sheffield Wednesday,,,,,,35,48488
+PRML,0,,,,,,,Sunderland,,,,,,-591321600000,1951-04-07,1950/1951,0,,,,,,,Portsmouth,,,,,,37,30264
+PRML,4,"{'N. Lofthouse':'90'',90''','Harry Webster':'90'',90'''}",,,,,,Bolton Wanderers,,,,,,-602812800000,1950-11-25,1950/1951,3,"{'Gerry Henry':'90''','Redfern Froggatt':'90''','Walter Rickett':'90'''}",,,,,,Sheffield Wednesday,,,,,,19,37053
+PRML,1,"{'Jackie Chew':'90'''}",,,,,,Burnley,,,,,,-610675200000,1950-08-26,1950/1951,0,,,,,,,Sheffield Wednesday,,,,,,3,40754
+PRML,0,,,,,,,Newcastle,,,,,,-610070400000,1950-09-02,1950/1951,0,,,,,,,Portsmouth,,,,,,5,43243
+PRML,0,,,,,,,West Bromwich Albion,,,,,,-600134400000,1950-12-26,1950/1951,3,"{'Hugh Mcjarrow':'90'',90''','William John Jordan':'90'''}",,,,,,Sheffield Wednesday,,,,,,24,44863
+PRML,2,"{'Gordon Hurst':'90''','John Evans':'90'''}",,,,,,Charlton Athletic,,,,,,-609465600000,1950-09-09,1950/1951,1,"{'Hugh Mcjarrow':'90'''}",,,,,,Sheffield Wednesday,,,,,,7,37003
+PRML,0,,,,,,,Arsenal,,,,,,-600134400000,1950-12-26,1950/1951,1,"{'Frank Bowyer':'45'''}",,,,,,Stoke City,,,,,,25,43315
+PRML,2,"{'Billy Dickson':'90''','John Harris':'90'''}",,,,,,Chelsea,,,,,,-594950400000,1951-02-24,1950/1951,2,"{'Dennis Woodhead':'90''','Albert Quixall':'90'''}",,,,,,Sheffield Wednesday,,,,,,28,40964
+PRML,3,"{'Bill Jones':'54''','Cyril Done':'48''','Billy Liddell':'65'''}",,,,,,Liverpool,,,,,,-594950400000,1951-02-24,1950/1951,2,"{'Leslie Johnston':'45'',45'''}",,,,,,Stoke City,,,,,,31,22534
+PRML,3,"{'Jack Lee':'90'',90''','Jackie Stamps':'90'''}",,,,,,Derby County,,,,,,-590371200000,1951-04-18,1950/1951,4,"{'Dennis Woodhead':'90'',90''','Walter Rickett':'90''','Jackie Sewell':'90'''}",,,,,,Sheffield Wednesday,,,,,,39,40610
+PRML,2,"{'Jimmy Bowie':'90''','Bob Thomas':'90'''}",,,,,,Fulham,,,,,,-591321600000,1951-04-07,1950/1951,2,"{'Redfern Froggatt':'90''','Jackie Sewell':'90'''}",,,,,,Sheffield Wednesday,,,,,,37,32351
+PRML,1,"{'Geoff Walker':'90'''}",,,,,,Middlesbrough,,,,,,-608860800000,1950-09-16,1950/1951,0,,,,,,,Sheffield Wednesday,,,,,,9,46958
+PRML,0,,,,,,,Aston Villa,,,,,,-601603200000,1950-12-09,1950/1951,1,"{'Harry Oscroft':'90'''}",,,,,,Stoke City,,,,,,21,19291
+PRML,1,"{'Jimmy Dunn':'90'''}",,,,,,Wolves,,,,,,-602812800000,1950-11-25,1950/1951,0,,,,,,,Stoke City,,,,,,19,34188
+PRML,1,"{'Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,-611107200000,1950-08-21,1950/1951,2,"{'Dennis Woodhead':'90''','Hugh Mcjarrow':'90'''}",,,,,,Sheffield Wednesday,,,,,,2,47264
+PRML,1,"{'N. Lofthouse':'90'''}",,,,,,Bolton Wanderers,,,,,,-592531200000,1951-03-24,1950/1951,2,"{'Frank Bowyer':'90'',90'''}",,,,,,Stoke City,,,,,,36,20682
+PRML,1,"{'Leslie Johnston':'90'''}",,,,,,Stoke City,,,,,,-609897600000,1950-09-04,1950/1951,1,"{'Charles Tomlinson':'90'''}",,,,,,Sheffield Wednesday,,,,,,6,35829
+PRML,2,"{'J. Mullen':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,-606441600000,1950-10-14,1950/1951,2,"{'Redfern Froggatt':'90''','Walter Rickett':'90'''}",,,,,,Sheffield Wednesday,,,,,,12,47033
+PRML,1,"{'Len Quested':'90'''}",,,,,,Fulham,,,,,,-606441600000,1950-10-14,1950/1951,1,"{'Alec Ormston':'90'''}",,,,,,Stoke City,,,,,,13,26658
+PRML,0,,,,,,,Blackpool,,,,,,-604022400000,1950-11-11,1950/1951,1,,,,,,,Stoke City,,,,,,17,39894
+PRML,2,"{'Jackie Milburn':'90'',90'''}",,,,,,Newcastle,,,,,,-611280000000,1950-08-19,1950/1951,1,"{'Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,1,28547
+PRML,0,,,,,,,Middlesbrough,,,,,,-592358400000,1951-03-26,1950/1951,2,"{'Harry Oscroft':'90'',90'''}",,,,,,Stoke City,,,,,,37,19000
+PRML,1,"{'Redfern Froggatt':'90'''}",,,,,,Sheffield Wednesday,,,,,,-609292800000,1950-09-11,1950/1951,1,"{'Roy Brown':'90'''}",,,,,,Stoke City,,,,,,8,23277
+PRML,2,"{'Don Roper':'90''','Ben Marden':'90'''}",,,,,,Arsenal,,,,,,-591926400000,1951-03-31,1950/1951,0,,,,,,,Sunderland,,,,,,37,31505
+PRML,0,,,,,,,Charlton Athletic,,,,,,-605232000000,1950-10-28,1950/1951,2,"{'Frank Bowyer':'90'',90'''}",,,,,,Stoke City,,,,,,14,22689
+PRML,0,,,,,,,Everton,,,,,,-609465600000,1950-09-09,1950/1951,2,"{'Leslie Johnston':'90'',90'''}",,,,,,Stoke City,,,,,,7,29383
+PRML,1,"{'Billy Gray':'90'''}",,,,,,Chelsea,,,,,,-608256000000,1950-09-23,1950/1951,2,"{'Harry Oscroft':'90''','Leslie Johnston':'90'''}",,,,,,Stoke City,,,,,,9,25521
+PRML,3,"{'Johnny Dixon':'90''','Miller Craddock':'90''','Ivor Powell':'90'''}",,,,,,Aston Villa,,,,,,-610329600000,1950-08-30,1950/1951,3,"{'Len Duns':'90''','I. Broadis':'90'''}",,,,,,Sunderland,,,,,,4,40893
+PRML,2,"{'Willie Moir':'90''','Harry Webster':'90'''}",,,,,,Bolton Wanderers,,,,,,-598579200000,1951-01-13,1950/1951,1,"{'Tommy Wright':'90'''}",,,,,,Sunderland,,,,,,26,47197
+PRML,1,"{'Johnny Morris':'90'''}",,,,,,Derby County,,,,,,-610070400000,1950-09-02,1950/1951,4,"{'Leslie Johnston':'90'',90''','Roy Brown':'90''','Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,5,27457
+PRML,1,"{'Harold Hassall':'90'''}",,,,,,Huddersfield Town,,,,,,-610502400000,1950-08-28,1950/1951,0,,,,,,,Stoke City,,,,,,4,21780
+PRML,0,,,,,,,Man. Utd,,,,,,-591321600000,1951-04-07,1950/1951,2,"{'Harry Oscroft':'27''','Albert Mullard':'42'''}",,,,,,Stoke City,,,,,,38,25700
+PRML,2,"{'John Evans':'90''','Riley Cullum':'90'''}",,,,,,Charlton Athletic,,,,,,-607651200000,1950-09-30,1950/1951,4,"{'I. Broadis':'90'',90'',90'''}",,,,,,Sunderland,,,,,,10,26340
+PRML,2,"{'Ike Clarke':'90'',90'''}",,,,,,Portsmouth,,,,,,-597974400000,1951-01-20,1950/1951,1,"{'Leslie Johnston':'90'''}",,,,,,Stoke City,,,,,,26,23455
+PRML,4,"{'Trevor Ford':'90'',90''','B. Bingham':'90''','Len Shackleton':'90'''}",,,,,,Sunderland,,,,,,-590112000000,1951-04-21,1950/1951,2,"{'Frank Mountford':'90'''}",,,,,,Stoke City,,,,,,41,23398
+PRML,1,"{'Wally Hinshelwood':'90'''}",,,,,,Chelsea,,,,,,-593136000000,1951-03-17,1950/1951,1,"{'Trevor Ford':'90'''}",,,,,,Sunderland,,,,,,31,24270
+PRML,0,,,,,,,Tottenham Hotspur,,,,,,-593740800000,1951-03-10,1950/1951,0,,,,,,,Stoke City,,,,,,33,24236
+PRML,0,,,,,,,Burnley,,,,,,-595555200000,1951-02-17,1950/1951,0,,,,,,,Stoke City,,,,,,30,20823
+PRML,0,,,,,,,Everton,,,,,,-590716800000,1951-04-14,1950/1951,4,"{'Trevor Ford':'90''','Harry Kirtley':'90''','B. Bingham':'90''','Len Shackleton':'90'''}",,,,,,Sunderland,,,,,,39,27283
+PRML,1,"{'Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,-600393600000,1950-12-23,1950/1951,1,"{'Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,23,19789
+PRML,2,"{'J. Mudie':'90'''}",,,,,,Blackpool,,,,,,-608860800000,1950-09-16,1950/1951,0,,,,,,,Sunderland,,,,,,8,56204
+PRML,1,"{'Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,-594345600000,1951-03-03,1950/1951,2,"{'Trevor Ford':'90''','Harry Kirtley':'90'''}",,,,,,Sunderland,,,,,,30,57958
+PRML,0,,,,,,,Arsenal,,,,,,-600393600000,1950-12-23,1950/1951,1,"{'E. Baily':'45'''}",,,,,,Tottenham Hotspur,,,,,,22,54898
+PRML,1,"{'Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,-589507200000,1951-04-28,1950/1951,1,"{'Trevor Ford':'90'''}",,,,,,Sunderland,,,,,,41,17727
+PRML,0,,,,,,,Everton,,,,,,-591926400000,1951-03-31,1950/1951,3,"{'Peter Murphy':'90''','Les Bennett':'90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,37,46651
+PRML,1,"{'Bedford Jezzard':'90'''}",,,,,,Fulham,,,,,,-592358400000,1951-03-26,1950/1951,2,"{'Peter Murphy':'90''','Les Bennett':'90'''}",,,,,,Tottenham Hotspur,,,,,,36,51862
+PRML,0,,,,,,,Derby County,,,,,,-611280000000,1950-08-19,1950/1951,1,"{'Len Shackleton':'90'''}",,,,,,Sunderland,,,,,,1,52452
+PRML,1,"{'Archibald Macaulay':'90'''}",,,,,,Fulham,,,,,,-610070400000,1950-09-02,1950/1951,0,,,,,,,Sunderland,,,,,,5,43080
+PRML,1,"{'Doug Witcomb':'90'''}",,,,,,Sheffield Wednesday,,,,,,-604627200000,1950-11-04,1950/1951,5,"{'Trevor Ford':'90'',90'',90''','Tommy Wright':'90''','Len Shackleton':'90'''}",,,,,,Sunderland,,,,,,15,48939
+PRML,1,"{'Bill Holden':'90'''}",,,,,,Burnley,,,,,,-605836800000,1950-10-21,1950/1951,1,"{'Jack Stelling':'90'''}",,,,,,Sunderland,,,,,,13,38982
+PRML,4,"{'Hugh Kelly':'90''','S. Mortensen':'90''','Harry Johnston':'90'',90'''}",,,,,,Blackpool,,,,,,-611280000000,1950-08-19,1950/1951,1,"{'E. Baily':'90'''}",,,,,,Tottenham Hotspur,,,,,,1,64978
+PRML,2,"{'Willie Moir':'90'',90'''}",,,,,,Bolton Wanderers,,,,,,-610502400000,1950-08-28,1950/1951,4,"{'E. Baily':'90''','Len Duquemin':'90'',90'''}",,,,,,Tottenham Hotspur,,,,,,4,44246
+PRML,1,"{'John Aston':'2'''}",,,,,,Man. Utd,,,,,,-600220800000,1950-12-25,1950/1951,2,"{'Tommy Wright':'5'',62'''}",,,,,,Sunderland,,,,,,24,41215
+PRML,3,"{'W. Mannion':'90''','Jimmy Hartnett':'90''','Lindy Delapenha':'90'''}",,,,,,Middlesbrough,,,,,,-602208000000,1950-12-02,1950/1951,3,"{'Len Duquemin':'90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,19,61148
+PRML,0,,,,,,,Wolves,,,,,,-588902400000,1951-05-05,1950/1951,0,,,,,,,Sunderland,,,,,,42,23198
+PRML,1,"{'Jack Balmer':'12'''}",,,,,,Liverpool,,,,,,-600393600000,1950-12-23,1950/1951,2,"{'Dickie Davis':'45''','W. Watson':'90'''}",,,,,,Sunderland,,,,,,22,30150
+PRML,0,,,,,,,Burnley,,,,,,-607046400000,1950-10-07,1950/1951,1,"{'Leslie Medley':'90'''}",,,,,,Tottenham Hotspur,,,,,,11,46518
+PRML,0,,,,,,,Charlton Athletic,,,,,,-599788800000,1950-12-30,1950/1951,1,"{'Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,25,54667
+PRML,0,,,,,,,Huddersfield Town,,,,,,-607046400000,1950-10-07,1950/1951,0,,,,,,,Sunderland,,,,,,11,33571
+PRML,1,"{'Robert Campbell':'90'''}",,,,,,Chelsea,,,,,,-594345600000,1951-03-03,1950/1951,2,"{'Ron Burgess':'90''','Alex Wright':'90'''}",,,,,,Tottenham Hotspur,,,,,,30,59449
+PRML,1,"{'Bobby Mitchell':'90'''}",,,,,,Newcastle,,,,,,-592358400000,1951-03-26,1950/1951,2,"{'Trevor Ford':'90''','Harry Kirtley':'90'''}",,,,,,Sunderland,,,,,,36,55159
+PRML,1,"{'I. Broadis':'90'''}",,,,,,Sunderland,,,,,,-608256000000,1950-09-23,1950/1951,1,"{'E. Baily':'90'''}",,,,,,Tottenham Hotspur,,,,,,9,59190
+PRML,1,"{'Frank Bowyer':'90'''}",,,,,,Stoke City,,,,,,-602208000000,1950-12-02,1950/1951,1,"{'Harry Kirtley':'90'''}",,,,,,Sunderland,,,,,,20,36037
+PRML,2,"{'Jackie Stamps':'90''','Reg Harrison':'90'''}",,,,,,Derby County,,,,,,-594950400000,1951-02-24,1950/1951,1,"{'Jimmy Dudley':'90'''}",,,,,,West Bromwich Albion,,,,,,30,33572
+PRML,0,,,,,,,Portsmouth,,,,,,-603417600000,1950-11-18,1950/1951,0,,,,,,,Sunderland,,,,,,17,46111
+PRML,2,"{'Colin Gibson':'90''','Johnny Dixon':'90'''}",,,,,,Aston Villa,,,,,,-595555200000,1951-02-17,1950/1951,3,"{'E. Baily':'90''','Leslie Medley':'90'''}",,,,,,Tottenham Hotspur,,,,,,29,47842
+PRML,1,,,,,,,Portsmouth,,,,,,-604627200000,1950-11-04,1950/1951,5,"{'E. Baily':'90'',90'',90''','Len Duquemin':'90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,15,66402
+PRML,0,,,,,,,Man. Utd,,,,,,-609465600000,1950-09-09,1950/1951,1,"{'Sonny Walters':'44'''}",,,,,,Tottenham Hotspur,,,,,,7,60621
+PRML,3,"{'Geoff Walker':'90''','Alex McCrae':'90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,-609120000000,1950-09-13,1950/1951,2,"{'William Elliott':'90''','Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,8,31530
+PRML,0,,,,,,,Newcastle,,,,,,-603417600000,1950-11-18,1950/1951,7,"{'E. Baily':'90''','Les Bennett':'90''','Leslie Medley':'90'',90'',90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,17,70336
+PRML,2,"{'Jimmy Glazzard':'90''','Albert Nightingale':'90'''}",,,,,,Huddersfield Town,,,,,,-590716800000,1951-04-14,1950/1951,0,,,,,,,Tottenham Hotspur,,,,,,39,55014
+PRML,1,"{'Billy Gray':'90'''}",,,,,,Chelsea,,,,,,-597974400000,1951-01-20,1950/1951,1,"{'George Lee':'90'''}",,,,,,West Bromwich Albion,,,,,,25,30985
+PRML,0,,,,,,,Arsenal,,,,,,-595555200000,1951-02-17,1950/1951,2,"{'Fred Richardson':'90'',90'''}",,,,,,West Bromwich Albion,,,,,,30,35851
+PRML,1,"{'Jack Spencer':'90'''}",,,,,,Burnley,,,,,,-608256000000,1950-09-23,1950/1951,2,"{'George Lee':'90''','Davy Walsh':'90'''}",,,,,,West Bromwich Albion,,,,,,9,32058
+PRML,0,,,,,,,Tottenham Hotspur,,,,,,-596764800000,1951-02-03,1950/1951,0,,,,,,,Sunderland,,,,,,28,56817
+PRML,1,"{'Hugh Mclaren':'90'''}",,,,,,Derby County,,,,,,-600134400000,1950-12-26,1950/1951,2,"{'Sid Mcclellan':'90'',90'''}",,,,,,Tottenham Hotspur,,,,,,24,59885
+PRML,0,,,,,,,Charlton Athletic,,,,,,-591321600000,1951-04-07,1950/1951,3,"{'Reg Ryan':'90''','Andy Mccall':'90''','Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,38,25960
+PRML,1,"{'Johnny Walker':'90'''}",,,,,,Wolves,,,,,,-597974400000,1951-01-20,1950/1951,2,"{'Sid Mcclellan':'90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,27,66796
+PRML,2,"{'Harold Hassall':'90''','Vic Metcalfe':'90'''}",,,,,,Huddersfield Town,,,,,,-592358400000,1951-03-26,1950/1951,0,,,,,,,West Bromwich Albion,,,,,,35,24264
+PRML,1,"{'Albert Stubbins':'85'''}",,,,,,Liverpool,,,,,,-588902400000,1951-05-05,1950/1951,3,"{'Peter Murphy':'90'',90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,42,49072
+PRML,1,"{'Phil Taylor':'87'''}",,,,,,Liverpool,,,,,,-606441600000,1950-10-14,1950/1951,1,"{'Davy Walsh':'90'''}",,,,,,West Bromwich Albion,,,,,,12,35030
+PRML,1,"{'Brian Birch':'60'''}",,,,,,Man. Utd,,,,,,-602812800000,1950-11-25,1950/1951,0,,,,,,,West Bromwich Albion,,,,,,19,28146
+PRML,2,"{'Leslie Medley':'90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,-605232000000,1950-10-28,1950/1951,1,"{'Ray Barlow':'90'''}",,,,,,West Bromwich Albion,,,,,,14,44543
+PRML,1,"{'Alec Ormston':'90'''}",,,,,,Stoke City,,,,,,-605836800000,1950-10-21,1950/1951,6,"{'Les Bennett':'90'',90''','Leslie Medley':'90''','Len Duquemin':'90'',90''','Sonny Walters':'90'''}",,,,,,Tottenham Hotspur,,,,,,14,54124
+PRML,0,,,,,,,Sheffield Wednesday,,,,,,-589507200000,1951-04-28,1950/1951,1,"{'Len Duquemin':'90'''}",,,,,,Tottenham Hotspur,,,,,,41,46645
+PRML,2,"{'Bobby Mitchell':'90''','Jackie Milburn':'90'''}",,,,,,Newcastle,,,,,,-610329600000,1950-08-30,1950/1951,1,"{'Davy Walsh':'90'''}",,,,,,West Bromwich Albion,,,,,,4,29377
+PRML,1,"{'Tommy Eglington':'90'''}",,,,,,Everton,,,,,,-599788800000,1950-12-30,1950/1951,0,,,,,,,West Bromwich Albion,,,,,,26,17912
+PRML,0,,,,,,,Portsmouth,,,,,,-609465600000,1950-09-09,1950/1951,5,"{'William Elliott':'90''','Davy Walsh':'90''','Arthur Smith':'90'',90''','Cyril Williams':'90'''}",,,,,,West Bromwich Albion,,,,,,7,34460
+PRML,0,,,,,,,West Bromwich Albion,,,,,,-593136000000,1951-03-17,1950/1951,5,"{'E. Baily':'90''','Les Bennett':'90''','Len Duquemin':'90'',90'',90'''}",,,,,,Tottenham Hotspur,,,,,,33,45353
+PRML,0,,,,,,,Everton,,,,,,-603417600000,1950-11-18,1950/1951,4,"{'Roy Swinbourne':'90''','J. Mullen':'90''','Jimmy Dunn':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,18,31275
+PRML,3,"{'S. Mortensen':'90''','J. Mudie':'90'',90'''}",,,,,,Blackpool,,,,,,-591580800000,1951-04-04,1950/1951,1,,,,,,,West Bromwich Albion,,,,,,37,39459
+PRML,0,,,,,,,Aston Villa,,,,,,-600998400000,1950-12-16,1950/1951,2,"{'Fred Richardson':'90''','Edward Wilcox':'90'''}",,,,,,West Bromwich Albion,,,,,,22,27599
+PRML,1,,,,,,,Bolton Wanderers,,,,,,-604022400000,1950-11-11,1950/1951,0,,,,,,,West Bromwich Albion,,,,,,16,28816
+PRML,3,"{'Redfern Froggatt':'90''','Hugh Mcjarrow':'90''','William John Jordan':'90'''}",,,,,,Sheffield Wednesday,,,,,,-600220800000,1950-12-25,1950/1951,1,"{'Reg Ryan':'90'''}",,,,,,West Bromwich Albion,,,,,,23,28023
+PRML,1,"{'Trevor Ford':'90'''}",,,,,,Sunderland,,,,,,-601603200000,1950-12-09,1950/1951,3,"{'Fred Richardson':'90'',90''','Edward Wilcox':'90'''}",,,,,,West Bromwich Albion,,,,,,20,26666
+PRML,0,,,,,,,Sheffield Wednesday,,,,,,-594345600000,1951-03-03,1950/1951,4,"{'Roy Swinbourne':'90'',90''','Johnny Hancocks':'90'',90'''}",,,,,,Wolves,,,,,,29,37482
+PRML,1,"{'Doug Lishman':'90'''}",,,,,,Arsenal,,,,,,-604627200000,1950-11-04,1950/1951,0,,,,,,,Wolves,,,,,,15,55648
+PRML,0,,,,,,,Fulham,,,,,,-592531200000,1951-03-24,1950/1951,0,,,,,,,West Bromwich Albion,,,,,,35,23698
+PRML,1,"{'Terry Lyons':'90'''}",,,,,,Burnley,,,,,,-591926400000,1951-03-31,1950/1951,0,,,,,,,Wolves,,,,,,38,20572
+PRML,3,"{'Jack Lee':'90'',90''','Johnny Morris':'90'''}",,,,,,Derby County,,,,,,-610502400000,1950-08-28,1950/1951,2,"{'Jesse Pye':'90''','Jimmy Dunn':'90'''}",,,,,,Wolves,,,,,,4,46285
+PRML,1,"{'Willie Moir':'90'''}",,,,,,Bolton Wanderers,,,,,,-610070400000,1950-09-02,1950/1951,7,"{'Roy Swinbourne':'90'',90'',90''','J. Mullen':'90''','Jimmy Dunn':'90''','Johnny Hancocks':'90'',90'''}",,,,,,Wolves,,,,,,5,46794
+PRML,2,"{'Peter Broadbent':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,-590112000000,1951-04-21,1950/1951,3,"{'Ray Barlow':'90'',90''','Ronnie Allen':'90'''}",,,,,,West Bromwich Albion,,,,,,38,38933
+PRML,3,"{'Johnny Dixon':'90'''}",,,,,,Aston Villa,,,,,,-592358400000,1951-03-26,1950/1951,2,"{'D. Wilshaw':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,34,38340
+PRML,3,"{'Gordon Hurst':'90''','H. Jeppson':'90'',90'''}",,,,,,Charlton Athletic,,,,,,-596764800000,1951-02-03,1950/1951,2,"{'J. Mullen':'90''','Johnny Walker':'90'''}",,,,,,Wolves,,,,,,29,35183
+PRML,1,"{'Leslie Johnston':'90'''}",,,,,,Stoke City,,,,,,-610675200000,1950-08-26,1950/1951,1,"{'William Elliott':'90'''}",,,,,,West Bromwich Albion,,,,,,3,33215
+PRML,1,"{'J. Robledo':'90'''}",,,,,,Newcastle,,,,,,-589161600000,1951-05-02,1950/1951,0,,,,,,,Wolves,,,,,,41,27015
+PRML,4,"{'Alex McCrae':'90'',90''','Johnny Spuhler':'90'''}",,,,,,Middlesbrough,,,,,,-607046400000,1950-10-07,1950/1951,3,"{'Roy Swinbourne':'90''','Jimmy Dunn':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,11,39477
+PRML,3,"{'Albert Mundy':'90'',90''','Duggie Reid':'90'''}",,,,,,Portsmouth,,,,,,-593136000000,1951-03-17,1950/1951,2,"{'Roy Swinbourne':'90''','Johnny Walker':'90'''}",,,,,,Wolves,,,,,,32,32124
+PRML,3,"{'Harry Oscroft':'90''','John Clowes':'90'',90'''}",,,,,,Stoke City,,,,,,-590716800000,1951-04-14,1950/1951,2,"{'Jimmy Dunn':'90''','Les Smith':'90'''}",,,,,,Wolves,,,,,,40,27504
+PRML,1,"{'Tommy Wright':'90'''}",,,,,,Sunderland,,,,,,-609724800000,1950-09-06,1950/1951,2,"{'Jesse Pye':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,6,38163
+PRML,1,,,,,,,Tottenham Hotspur,,,,,,-608860800000,1950-09-16,1950/1951,2,"{'Roy Swinbourne':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,8,55364
+PRML,1,"{'Reg Ryan':'90'''}",,,,,,West Bromwich Albion,,,,,,-602208000000,1950-12-02,1950/1951,3,"{'Johnny Hancocks':'90'',90'',90'''}",,,,,,Wolves,,,,,,19,45087
+PRML,1,"{'S. Mortensen':'90'''}",,,,,,Blackpool,,,,,,-598579200000,1951-01-13,1950/1951,1,"{'Johnny Walker':'90'''}",,,,,,Wolves,,,,,,25,49028
+PRML,1,"{'Hugh Billington':'90'''}",,,,,,Chelsea,,,,,,-605836800000,1950-10-21,1950/1951,2,"{'Roy Swinbourne':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,13,40014
+PRML,1,"{'Arthur Stevens':'90'''}",,,,,,Fulham,,,,,,-600393600000,1950-12-23,1950/1951,1,"{'D. Wilshaw':'90'''}",,,,,,Wolves,,,,,,22,29222
+PRML,0,,,,,,,Liverpool,,,,,,-611280000000,1950-08-19,1950/1951,2,"{'Roy Swinbourne':'90''','Billy Crook':'45'''}",,,,,,Wolves,,,,,,1,50622
+PRML,1,"{'Harold Hassall':'90'''}",,,,,,Huddersfield Town,,,,,,-600134400000,1950-12-26,1950/1951,3,"{'Roy Swinbourne':'90''','Jimmy Dunn':'90''','Johnny Hancocks':'90'''}",,,,,,Wolves,,,,,,24,40838
+PRML,0,,,,,,,Man. Utd,,,,,,-607651200000,1950-09-30,1950/1951,0,,,,,,,Wolves,,,,,,11,45898
