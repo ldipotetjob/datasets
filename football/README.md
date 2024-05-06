@@ -55,6 +55,15 @@ This repository contains historical football data from three main European footb
   - 1987/1988
 
 
+## Champion League Information
+
+- Historical Football Data: The data starts from the 1955/1956 season and ends with the 2018/2019 season.
+
+- Seasons Under Revision\*:
+
+  - contact us at [**ldipotet@scadip.com**](mailto:ldipotet@scadip.com)
+
+
 ### Csv file fields Description
 
 |                    |                                                                                  |
