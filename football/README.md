@@ -63,6 +63,11 @@ This repository contains historical football data from three main European footb
 
   - contact us at [**ldipotet@scadip.com**](mailto:ldipotet@scadip.com)
 
+### The missing seasons are available by charge:
+
+- contact us at [**ldipotet@scadip.com**](mailto:ldipotet@scadip.com)
+
+
 
 ### Csv file fields Description
 
