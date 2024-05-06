@@ -137,7 +137,7 @@ We do not accept any liability for any loss, damage, or inconvenience caused by 
 
 - When a season is included under revision, that despite our efforts to review the data, there are significant inconsistencies that may affect its reliability, therefore that information is not included in the dataset. However we can provide it, please contact us via email.
 
-For any questions, concerns, or corrections regarding the data, please feel free to contact us at [**hello@scadip.com**](mailto:hello@scadip.com)
+For any questions, concerns, or corrections regarding the data, please feel free to contact us at [**hello@scadip.com**](mailto:ldipotet@scadip.com)
 
 Thank you for using our Europe Football Leagues Data Set! 
 
