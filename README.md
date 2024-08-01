@@ -4,4 +4,4 @@ This repository contains massive  of data sets includes, but is not limited to, 
 
 ## Datasets
 
-1.  [Football ddatasets](./football)
+1.  [Football datasets](./football)
