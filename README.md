@@ -1,6 +1,6 @@
 # Scadip datasets
 
-This repository contains massive  of data sets includes, but is not limited to, football data and commodity trading data.
+This repository contains massive  of data sets includes, but is not limited to, european football data and commodity trading data.
 
 ## Datasets
 
