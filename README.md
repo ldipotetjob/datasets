@@ -5,3 +5,12 @@ This repository contains massive  of data sets includes, but is not limited to, 
 ## Datasets
 
 1.  [Football datasets](./football)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Copyright © 2024 scadip
