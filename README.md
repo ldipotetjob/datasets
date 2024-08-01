@@ -1,2 +1,7 @@
-# datasets
-The massive repository of data sets includes, but is not limited to, football data and commodity trading data.
+# Scadip datasets
+
+This repository contains massive  of data sets includes, but is not limited to, football data and commodity trading data.
+
+## Datasets
+
+1.  [Football ddatasets](./football)
